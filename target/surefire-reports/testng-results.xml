@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-28T11:53:15 IST" name="CoPla" finished-at="2021-12-28T11:54:19 IST" duration-ms="63968">
+    <groups>
+    </groups>
+    <test started-at="2021-12-28T11:53:15 IST" name="CoPlaAutomation" finished-at="2021-12-28T11:54:19 IST" duration-ms="63968">
+      <class name="com.Copla.testCases.TC_DeliveryCalendarTest_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Copla.testCases.TC_DeliveryCalendarTest_002@c8c12ac]" started-at="2021-12-28T11:53:44 IST" name="setup" finished-at="2021-12-28T11:53:56 IST" duration-ms="11098" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="deliverycalendarTest()[pri:0, instance:com.Copla.testCases.TC_DeliveryCalendarTest_002@c8c12ac]" started-at="2021-12-28T11:53:56 IST" name="deliverycalendarTest" finished-at="2021-12-28T11:54:18 IST" duration-ms="22865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deliverycalendarTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Copla.testCases.TC_DeliveryCalendarTest_002@c8c12ac]" started-at="2021-12-28T11:54:18 IST" name="tearDown" finished-at="2021-12-28T11:54:19 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Copla.testCases.TC_DeliveryCalendarTest_002 -->
+      <class name="com.Copla.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Copla.testCases.TC_LoginTest_001@1623b78d]" started-at="2021-12-28T11:53:15 IST" name="setup" finished-at="2021-12-28T11:53:26 IST" duration-ms="11350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.Copla.testCases.TC_LoginTest_001@1623b78d]" started-at="2021-12-28T11:53:26 IST" name="loginTest" finished-at="2021-12-28T11:53:44 IST" duration-ms="17835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Copla.testCases.TC_LoginTest_001@1623b78d]" started-at="2021-12-28T11:53:44 IST" name="tearDown" finished-at="2021-12-28T11:53:44 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Copla.testCases.TC_LoginTest_001 -->
+    </test> <!-- CoPlaAutomation -->
+  </suite> <!-- CoPla -->
+</testng-results>

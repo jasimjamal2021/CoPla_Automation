@@ -1,0 +1,2 @@
+cd C:\Users\jasim.jamal\eclipse-workspace\CoPla_Automation
+mvn clean install

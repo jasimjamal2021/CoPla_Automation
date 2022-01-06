@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-06T18:38:59 IST" name="CoPla" finished-at="2022-01-06T18:40:38 IST" duration-ms="98640">
+    <groups>
+    </groups>
+    <test started-at="2022-01-06T18:38:59 IST" name="CoPlaAutomation" finished-at="2022-01-06T18:40:38 IST" duration-ms="98640">
+      <class name="com.Copla.testCases.TC_Paivi2Test_004">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Copla.testCases.TC_Paivi2Test_004@4f67eb2a]" started-at="2022-01-06T18:39:00 IST" name="setup" finished-at="2022-01-06T18:39:15 IST" duration-ms="15223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="paivi2Test()[pri:0, instance:com.Copla.testCases.TC_Paivi2Test_004@4f67eb2a]" started-at="2022-01-06T18:39:15 IST" name="paivi2Test" finished-at="2022-01-06T18:40:38 IST" duration-ms="82929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paivi2Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Copla.testCases.TC_Paivi2Test_004@4f67eb2a]" started-at="2022-01-06T18:40:38 IST" name="tearDown" finished-at="2022-01-06T18:40:38 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Copla.testCases.TC_Paivi2Test_004 -->
+    </test> <!-- CoPlaAutomation -->
+  </suite> <!-- CoPla -->
+</testng-results>
