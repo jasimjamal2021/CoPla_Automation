@@ -22,25 +22,25 @@ public class Paivi2 {
 
 	}
 
-	@FindBy(xpath = "//*[@id='Data-dropdown-button']")
+	@FindBy(xpath = "/html/body/div/nav/div[2]/div[3]/button")
 	WebElement data;
 
 	@FindBy(xpath = "//*[@id='navigationBar']/div[2]/div[3]/ul/li[2]")
 	WebElement paivi;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[1]/button[1]/span/label")
+	@FindBy(xpath = "//*[@id='addFilterButton']/span/label")
 	WebElement addfilter;
 
 	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[1]/div/div/div/button")
 	WebElement selectfilter;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[1]/div/div/div/ul/li[2]/span/div")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[1]/div/div/div/ul/li[2]/span/div")        
 	WebElement sortingcode;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[2]/div/div/div/button")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[2]/div/div/div/button") 
 	WebElement operator;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[2]/div/div/div/ul/li[2]/span/div")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[2]/div/div/div/ul/li[2]")
 	WebElement selectoperator;
 
 	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[3]/div/div/div[1]/div/input")
@@ -52,22 +52,22 @@ public class Paivi2 {
 	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[1]/div/div/div/button")
 	WebElement selectnewfilter;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[1]/div/div/div/ul/li[3]/span/div")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[1]/div/div/div/ul/li[3]")
 	WebElement street;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[2]/div/div/div/button")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[2]/div/div")
 	WebElement clickoperator;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[2]/div/div/div/ul/li/span/div")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[2]/div/div/div/ul/li")
 	WebElement likeoperator;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[3]/div/div/div[1]/div/input")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[3]/div/div/div[1]")
 	WebElement textboxvalue;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[4]")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[3]/div[4]")
 	WebElement deletefilter;
 
-	@FindBy(xpath ="/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[1]/button[2]/span/label")
+	@FindBy(xpath = "/html/body/div/div[1]/div/div[2]/div[1]/div/div[4]/div[1]/button[2]/span/label")
 	WebElement applyfilter;
 
 	/**** Click on Data tab ****/
@@ -75,6 +75,7 @@ public class Paivi2 {
 		try {
 			Actions act = new Actions(driver);
 			wait.until(ExpectedConditions.elementToBeClickable(data));
+			Thread.sleep(10000);
 			act.moveToElement(data).click().build().perform();
 		} catch (Exception e) {
 			System.out.println(e.getMessage().toString());

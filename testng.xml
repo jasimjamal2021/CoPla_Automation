@@ -3,22 +3,32 @@
 
 <suite name="CoPla">
 
-<listeners>
-<listener class-name="com.Copla.utilitiesFile.Reporting"/>
+	<listeners>
+		<listener class-name="com.Copla.utilitiesFile.Reporting" />
 
-</listeners>
+	</listeners>
 
-  <test name="CoPlaAutomation">
-     <parameter name="browser" value="chrome" />
-       <classes>
-  <!--     <class name="com.Copla.testCases.TC_LoginTest_001"/>
-      <class name="com.Copla.testCases.TC_DeliveryCalendarTest_002"/>
-      <class name="com.Copla.testCases.TC_LadaTest_003"/> -->
-      <class name="com.Copla.testCases.TC_Paivi2Test_004"/>
-      
-    
-    </classes>
-  
-  
-  </test> <!-- Test -->
+	<test name="CoPlaAutomation">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!-- <class name="com.Copla.testCases.TC_LoginTest_001" />
+			<class name="com.Copla.testCases.TC_DeliveryCalendarTest_002" />
+			<class name="com.Copla.testCases.TC_LadaTest_003" />
+			<class name="com.Copla.testCases.TC_Paivi2Test_004" />
+			<class name="com.Copla.testCases.TC_DeliveryTest_005" />
+			<class name="com.Copla.testCases.TC_PrioTest_006" />
+			<class name="com.Copla.testCases.TC_UnprocessedRecordsTest_007" />
+			<class name="com.Copla.testCases.TC_CalendarTest_008" />
+			<class name="com.Copla.testCases.TC_SmallparcelTest_009" /> -->
+			<class name="com.Copla.testCases.TC_DeliverymodelConfigTest_010" />
+			
+			
+			
+			
+
+
+		</classes>
+
+
+	</test> <!-- Test -->
 </suite> <!-- Suite -->

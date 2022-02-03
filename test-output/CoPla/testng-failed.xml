@@ -7,13 +7,13 @@
   <test thread-count="5" name="CoPlaAutomation(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.Copla.testCases.TC_LadaTest_003">
+      <class name="com.Copla.testCases.TC_DeliverymodelConfigTest_010">
         <methods>
           <include name="setup"/>
+          <include name="deliverymodelconfigTest"/>
           <include name="tearDown"/>
-          <include name="ladaTest"/>
         </methods>
-      </class> <!-- com.Copla.testCases.TC_LadaTest_003 -->
+      </class> <!-- com.Copla.testCases.TC_DeliverymodelConfigTest_010 -->
     </classes>
   </test> <!-- CoPlaAutomation(failed) -->
 </suite> <!-- Failed suite [CoPla] -->

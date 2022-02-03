@@ -1161,3 +1161,2616 @@
 2022-01-06 18:40:34,706 [main] INFO CoPla - Select preference checkbox
 2022-01-06 18:40:35,172 [main] INFO CoPla - Enter the preference name
 2022-01-06 18:40:38,220 [main] INFO CoPla - save the preference with random name
+2022-01-07 09:54:51,259 [main] INFO CoPla - URL is opened
+2022-01-07 09:55:02,300 [main] INFO CoPla - Password is entered
+2022-01-07 09:55:08,160 [main] INFO CoPla - Logged in the application
+2022-01-07 09:55:08,161 [main] INFO CoPla - Application  is opened
+2022-01-07 09:55:33,225 [main] INFO CoPla - Password is entered
+2022-01-07 09:55:39,070 [main] INFO CoPla - Logged in the application
+2022-01-07 09:55:39,071 [main] INFO CoPla - Logged in the application
+2022-01-07 09:55:39,444 [main] INFO CoPla - Click on data screen
+2022-01-07 09:55:48,003 [main] INFO CoPla - Click on lada screen
+2022-01-07 09:55:49,387 [main] INFO CoPla - Click on add filter
+2022-01-07 09:55:50,424 [main] INFO CoPla - Click on filters
+2022-01-07 09:55:51,195 [main] INFO CoPla - Select sorting code
+2022-01-07 09:55:52,004 [main] INFO CoPla - Click on Operator
+2022-01-07 09:55:53,250 [main] INFO CoPla - Select Operator
+2022-01-07 09:56:12,988 [main] INFO CoPla - Enter the value
+2022-01-07 09:56:13,592 [main] INFO CoPla - Select preference checkbox
+2022-01-07 09:56:19,634 [main] INFO CoPla - Enter the preference name
+2022-01-07 09:56:24,424 [main] INFO CoPla - save the preference with random name
+2022-01-07 09:56:45,750 [main] INFO CoPla - Password is entered
+2022-01-07 09:56:51,888 [main] INFO CoPla - Logged in the application
+2022-01-07 09:56:51,888 [main] INFO CoPla - Logged in the application
+2022-01-07 09:56:52,203 [main] INFO CoPla - Click on data screen
+2022-01-07 09:57:00,236 [main] INFO CoPla - Click on lada screen
+2022-01-07 09:57:03,445 [main] INFO CoPla - Click on add filter
+2022-01-07 09:57:16,597 [main] INFO CoPla - Click on filters
+2022-01-07 09:57:22,004 [main] INFO CoPla - Select filter and add operators
+2022-01-07 09:57:26,948 [main] INFO CoPla - Select another filter and add operators
+2022-01-07 09:57:28,628 [main] INFO CoPla - Delete last filter
+2022-01-07 09:58:05,317 [main] INFO CoPla - Click on apply filter
+2022-01-07 09:58:05,972 [main] INFO CoPla - Select preference checkbox
+2022-01-07 09:58:11,838 [main] INFO CoPla - Enter the preference name
+2022-01-07 09:58:16,374 [main] INFO CoPla - save the preference with random name
+2022-01-07 10:52:19,188 [main] INFO CoPla - Password is entered
+2022-01-07 10:52:25,980 [main] INFO CoPla - Logged in the application
+2022-01-07 10:52:25,981 [main] INFO CoPla - Logged in the application
+2022-01-07 10:52:26,430 [main] INFO CoPla - Click on data screen
+2022-01-07 10:52:34,502 [main] INFO CoPla - Click on lada screen
+2022-01-07 10:52:38,970 [main] INFO CoPla - Click on add filter
+2022-01-07 10:52:39,902 [main] INFO CoPla - Click on filters
+2022-01-07 10:52:45,637 [main] INFO CoPla - Select filter and add operators
+2022-01-07 10:52:50,742 [main] INFO CoPla - Select another filter and add operators
+2022-01-07 10:52:52,533 [main] INFO CoPla - Delete last filter
+2022-01-07 10:53:29,247 [main] INFO CoPla - Click on apply filter
+2022-01-07 10:53:29,857 [main] INFO CoPla - Select preference checkbox
+2022-01-07 10:53:35,992 [main] INFO CoPla - Enter the preference name
+2022-01-07 10:53:40,568 [main] INFO CoPla - save the preference with random name
+2022-01-07 11:28:27,913 [main] INFO CoPla - URL is opened
+2022-01-07 11:28:39,051 [main] INFO CoPla - Password is entered
+2022-01-07 11:28:44,912 [main] INFO CoPla - Logged in the application
+2022-01-07 11:28:44,915 [main] INFO CoPla - Application  is opened
+2022-01-07 11:29:09,774 [main] INFO CoPla - Password is entered
+2022-01-07 11:29:15,625 [main] INFO CoPla - Logged in the application
+2022-01-07 11:29:15,626 [main] INFO CoPla - Logged in the application
+2022-01-07 11:29:21,873 [main] INFO CoPla - Click on calendar
+2022-01-07 11:29:25,183 [main] INFO CoPla - Click on deliverycalendar dropdown
+2022-01-07 11:29:28,196 [main] INFO CoPla - click on delivery calendaer dropdown
+2022-01-07 11:29:28,447 [main] INFO CoPla - click on year
+2022-01-07 11:29:28,507 [main] INFO CoPla - Select an year 2022
+2022-01-07 11:29:36,759 [main] INFO CoPla - Clik on calendar button
+2022-01-07 11:29:54,023 [main] INFO CoPla - Select a day from calendar
+2022-01-07 11:30:07,115 [main] INFO CoPla - Select another from calendar
+2022-01-07 11:30:17,209 [main] INFO CoPla - Click on save
+2022-01-07 11:30:17,473 [main] INFO CoPla - Day is reseted to old date
+2022-01-07 11:30:45,641 [main] INFO CoPla - Password is entered
+2022-01-07 11:30:52,379 [main] INFO CoPla - Logged in the application
+2022-01-07 11:30:52,381 [main] INFO CoPla - Logged in the application
+2022-01-07 11:30:52,841 [main] INFO CoPla - Click on data screen
+2022-01-07 11:31:01,883 [main] INFO CoPla - Click on lada screen
+2022-01-07 11:31:02,194 [main] INFO CoPla - Click on add filter
+2022-01-07 11:31:02,587 [main] INFO CoPla - Click on filters
+2022-01-07 11:31:02,728 [main] INFO CoPla - Select sorting code
+2022-01-07 11:31:04,322 [main] INFO CoPla - Click on Operator
+2022-01-07 11:31:06,797 [main] INFO CoPla - Select Operator
+2022-01-07 11:31:26,426 [main] INFO CoPla - Enter the value
+2022-01-07 11:31:27,071 [main] INFO CoPla - Select preference checkbox
+2022-01-07 11:31:33,125 [main] INFO CoPla - Enter the preference name
+2022-01-07 11:31:38,013 [main] INFO CoPla - save the preference with random name
+2022-01-07 11:31:59,839 [main] INFO CoPla - Password is entered
+2022-01-07 11:32:05,915 [main] INFO CoPla - Logged in the application
+2022-01-07 11:32:05,916 [main] INFO CoPla - Logged in the application
+2022-01-07 11:32:06,189 [main] INFO CoPla - Click on data screen
+2022-01-07 11:32:14,231 [main] INFO CoPla - Click on lada screen
+2022-01-07 11:32:18,422 [main] INFO CoPla - Click on add filter
+2022-01-07 11:32:20,603 [main] INFO CoPla - Click on filters
+2022-01-07 11:32:25,773 [main] INFO CoPla - Select filter and add operators
+2022-01-07 11:32:30,980 [main] INFO CoPla - Select another filter and add operators
+2022-01-07 11:32:32,621 [main] INFO CoPla - Delete last filter
+2022-01-07 11:33:08,006 [main] INFO CoPla - Click on apply filter
+2022-01-07 11:33:08,730 [main] INFO CoPla - Select preference checkbox
+2022-01-07 11:33:14,656 [main] INFO CoPla - Enter the preference name
+2022-01-07 11:33:19,363 [main] INFO CoPla - save the preference with random name
+2022-01-07 11:41:58,761 [main] INFO CoPla - Password is entered
+2022-01-07 11:42:05,027 [main] INFO CoPla - Logged in the application
+2022-01-07 11:42:05,029 [main] INFO CoPla - Logged in the application
+2022-01-07 11:42:05,563 [main] INFO CoPla - Click on data screen
+2022-01-07 11:42:13,642 [main] INFO CoPla - Click on lada screen
+2022-01-07 11:42:17,680 [main] INFO CoPla - Click on add filter
+2022-01-07 15:49:02,429 [main] INFO CoPla - Password is entered
+2022-01-07 15:49:08,255 [main] INFO CoPla - Logged in the application
+2022-01-07 15:49:08,257 [main] INFO CoPla - Logged in the application
+2022-01-07 15:49:08,610 [main] INFO CoPla - Click on data screen
+2022-01-07 15:49:16,567 [main] INFO CoPla - Click on lada screen
+2022-01-07 15:49:19,569 [main] INFO CoPla - Click on add filter
+2022-01-07 15:49:23,507 [main] INFO CoPla - Click on select filter
+2022-01-07 15:49:31,889 [main] INFO CoPla - Select postal code filters
+2022-01-07 15:54:00,968 [main] INFO CoPla - Password is entered
+2022-01-07 15:54:06,969 [main] INFO CoPla - Logged in the application
+2022-01-07 15:54:06,970 [main] INFO CoPla - Logged in the application
+2022-01-07 15:54:07,318 [main] INFO CoPla - Click on data screen
+2022-01-07 15:54:15,352 [main] INFO CoPla - Click on lada screen
+2022-01-07 15:54:18,217 [main] INFO CoPla - Click on add filter
+2022-01-07 15:54:22,297 [main] INFO CoPla - Click on select filter
+2022-01-07 15:54:47,912 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-07 16:25:41,042 [main] INFO CoPla - Password is entered
+2022-01-07 16:25:47,361 [main] INFO CoPla - Logged in the application
+2022-01-07 16:25:47,361 [main] INFO CoPla - Logged in the application
+2022-01-07 16:25:47,743 [main] INFO CoPla - Click on data screen
+2022-01-07 16:25:55,357 [main] INFO CoPla - Click on lada screen
+2022-01-07 16:25:58,134 [main] INFO CoPla - Click on add filter
+2022-01-07 16:26:02,075 [main] INFO CoPla - Click on select filter
+2022-01-07 16:26:04,152 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-07 16:26:04,817 [main] INFO CoPla - Select preference checkbox
+2022-01-07 16:26:11,266 [main] INFO CoPla - Enter the preference name
+2022-01-07 16:26:14,409 [main] INFO CoPla - save the preference with random name
+2022-01-07 16:28:00,704 [main] INFO CoPla - Password is entered
+2022-01-07 16:28:15,097 [main] INFO CoPla - Logged in the application
+2022-01-07 16:28:15,097 [main] INFO CoPla - Logged in the application
+2022-01-07 16:28:15,475 [main] INFO CoPla - Click on data screen
+2022-01-07 16:28:23,526 [main] INFO CoPla - Click on lada screen
+2022-01-07 16:28:25,408 [main] INFO CoPla - Click on add filter
+2022-01-07 16:28:29,373 [main] INFO CoPla - Click on select filter
+2022-01-07 16:28:56,445 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-07 16:28:57,183 [main] INFO CoPla - Select preference checkbox
+2022-01-07 16:29:03,037 [main] INFO CoPla - Enter the preference name
+2022-01-07 16:29:07,734 [main] INFO CoPla - save the preference with random name
+2022-01-07 16:31:24,159 [main] INFO CoPla - URL is opened
+2022-01-07 16:31:35,235 [main] INFO CoPla - Password is entered
+2022-01-07 16:31:41,147 [main] INFO CoPla - Logged in the application
+2022-01-07 16:31:41,148 [main] INFO CoPla - Application  is opened
+2022-01-07 16:32:07,666 [main] INFO CoPla - Password is entered
+2022-01-07 16:32:13,915 [main] INFO CoPla - Logged in the application
+2022-01-07 16:32:13,917 [main] INFO CoPla - Logged in the application
+2022-01-07 16:32:14,341 [main] INFO CoPla - Click on data screen
+2022-01-07 16:32:23,338 [main] INFO CoPla - Click on lada screen
+2022-01-07 16:32:24,533 [main] INFO CoPla - Click on add filter
+2022-01-07 16:32:25,555 [main] INFO CoPla - Click on filters
+2022-01-07 16:32:27,642 [main] INFO CoPla - Select sorting code
+2022-01-07 16:32:28,435 [main] INFO CoPla - Click on Operator
+2022-01-07 16:32:29,735 [main] INFO CoPla - Select Operator
+2022-01-07 16:32:49,219 [main] INFO CoPla - Enter the value
+2022-01-07 16:32:49,943 [main] INFO CoPla - Select preference checkbox
+2022-01-07 16:32:55,700 [main] INFO CoPla - Enter the preference name
+2022-01-07 16:33:00,481 [main] INFO CoPla - save the preference with random name
+2022-01-07 16:33:22,158 [main] INFO CoPla - Password is entered
+2022-01-07 16:33:28,241 [main] INFO CoPla - Logged in the application
+2022-01-07 16:33:28,242 [main] INFO CoPla - Logged in the application
+2022-01-07 16:33:28,565 [main] INFO CoPla - Click on data screen
+2022-01-07 16:33:36,562 [main] INFO CoPla - Click on lada screen
+2022-01-07 16:33:39,790 [main] INFO CoPla - Click on add filter
+2022-01-07 16:35:04,541 [main] INFO CoPla - Click on filters
+2022-01-07 16:35:09,903 [main] INFO CoPla - Select filter and add operators
+2022-01-07 16:35:14,634 [main] INFO CoPla - Select another filter and add operators
+2022-01-07 16:35:16,271 [main] INFO CoPla - Delete last filter
+2022-01-07 16:35:53,084 [main] INFO CoPla - Click on apply filter
+2022-01-07 16:35:53,680 [main] INFO CoPla - Select preference checkbox
+2022-01-07 16:35:59,502 [main] INFO CoPla - Enter the preference name
+2022-01-07 16:36:03,901 [main] INFO CoPla - save the preference with random name
+2022-01-07 16:36:28,133 [main] INFO CoPla - Password is entered
+2022-01-07 16:36:34,060 [main] INFO CoPla - Logged in the application
+2022-01-07 16:36:34,061 [main] INFO CoPla - Logged in the application
+2022-01-07 16:36:34,547 [main] INFO CoPla - Click on data screen
+2022-01-07 16:36:42,588 [main] INFO CoPla - Click on lada screen
+2022-01-07 16:36:43,990 [main] INFO CoPla - Click on add filter
+2022-01-07 16:36:48,825 [main] INFO CoPla - Click on select filter
+2022-01-07 16:37:16,027 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-07 16:37:16,858 [main] INFO CoPla - Select preference checkbox
+2022-01-07 16:37:22,795 [main] INFO CoPla - Enter the preference name
+2022-01-07 16:37:27,534 [main] INFO CoPla - save the preference with random name
+2022-01-07 16:45:16,337 [main] INFO CoPla - Password is entered
+2022-01-07 16:45:24,992 [main] INFO CoPla - Logged in the application
+2022-01-07 16:45:24,994 [main] INFO CoPla - Logged in the application
+2022-01-07 16:45:25,377 [main] INFO CoPla - Click on data screen
+2022-01-07 16:45:33,420 [main] INFO CoPla - Click on lada screen
+2022-01-07 16:45:39,429 [main] INFO CoPla - Click on add filter
+2022-01-07 16:45:40,726 [main] INFO CoPla - Click on filters
+2022-01-07 16:45:46,045 [main] INFO CoPla - Select filter and add operators
+2022-01-07 16:45:51,069 [main] INFO CoPla - Select another filter and add operators
+2022-01-07 16:45:52,613 [main] INFO CoPla - Delete last filter
+2022-01-07 16:46:29,528 [main] INFO CoPla - Click on apply filter
+2022-01-07 16:46:30,305 [main] INFO CoPla - Select preference checkbox
+2022-01-07 16:46:36,282 [main] INFO CoPla - Enter the preference name
+2022-01-07 16:46:40,924 [main] INFO CoPla - save the preference with random name
+2022-01-07 17:35:21,886 [main] INFO CoPla - Password is entered
+2022-01-07 17:35:28,130 [main] INFO CoPla - Logged in the application
+2022-01-07 17:35:28,130 [main] INFO CoPla - Logged in the application
+2022-01-07 17:35:28,462 [main] INFO CoPla - Click on data screen
+2022-01-07 17:35:37,025 [main] INFO CoPla - Click on lada screen
+2022-01-07 17:35:39,161 [main] INFO CoPla - Click on add filter
+2022-01-07 17:35:43,098 [main] INFO CoPla - Click on select filter
+2022-01-07 17:37:40,753 [main] INFO CoPla - Password is entered
+2022-01-07 17:37:46,931 [main] INFO CoPla - Logged in the application
+2022-01-07 17:37:46,932 [main] INFO CoPla - Logged in the application
+2022-01-07 17:37:47,276 [main] INFO CoPla - Click on data screen
+2022-01-07 17:37:55,379 [main] INFO CoPla - Click on prio screen
+2022-01-07 17:37:55,568 [main] INFO CoPla - Click on add filter
+2022-01-07 17:45:38,494 [main] INFO CoPla - Password is entered
+2022-01-07 17:45:44,443 [main] INFO CoPla - Logged in the application
+2022-01-07 17:45:44,444 [main] INFO CoPla - Logged in the application
+2022-01-07 17:45:44,859 [main] INFO CoPla - Click on data screen
+2022-01-07 17:45:52,834 [main] INFO CoPla - Click on prio screen
+2022-01-07 17:45:53,044 [main] INFO CoPla - Click on add filter
+2022-01-07 17:46:36,954 [main] INFO CoPla - Click on select filter
+2022-01-07 17:46:38,932 [main] INFO CoPla - Logged out the application
+2022-01-07 17:48:28,554 [main] INFO CoPla - Password is entered
+2022-01-07 17:48:39,169 [main] INFO CoPla - Logged in the application
+2022-01-07 17:48:39,170 [main] INFO CoPla - Logged in the application
+2022-01-07 17:48:39,466 [main] INFO CoPla - Click on data screen
+2022-01-07 17:48:50,487 [main] INFO CoPla - Click on prio screen
+2022-01-07 17:48:50,710 [main] INFO CoPla - Click on add filter
+2022-01-07 17:49:44,300 [main] INFO CoPla - Click on select filter
+2022-01-07 17:49:45,766 [main] INFO CoPla - Logged out the application
+2022-01-07 17:51:57,626 [main] INFO CoPla - Password is entered
+2022-01-07 17:52:03,983 [main] INFO CoPla - Logged in the application
+2022-01-07 17:52:03,983 [main] INFO CoPla - Logged in the application
+2022-01-07 17:52:04,408 [main] INFO CoPla - Click on data screen
+2022-01-07 17:52:15,446 [main] INFO CoPla - Click on prio screen
+2022-01-07 17:52:15,527 [main] INFO CoPla - Click on add filter
+2022-01-07 17:55:56,407 [main] INFO CoPla - Password is entered
+2022-01-07 17:56:02,724 [main] INFO CoPla - Logged in the application
+2022-01-07 17:56:02,724 [main] INFO CoPla - Logged in the application
+2022-01-07 17:56:02,994 [main] INFO CoPla - Click on data screen
+2022-01-07 17:56:23,923 [main] INFO CoPla - Click on prio screen
+2022-01-07 17:56:26,980 [main] INFO CoPla - Click on add filter
+2022-01-07 17:56:55,995 [main] INFO CoPla - Click on select filter
+2022-01-07 17:56:57,661 [main] INFO CoPla - Logged out the application
+2022-01-07 17:58:33,130 [main] INFO CoPla - Password is entered
+2022-01-07 17:58:38,850 [main] INFO CoPla - Logged in the application
+2022-01-07 17:58:38,851 [main] INFO CoPla - Logged in the application
+2022-01-07 17:58:39,188 [main] INFO CoPla - Click on data screen
+2022-01-07 17:59:00,197 [main] INFO CoPla - Click on prio screen
+2022-01-07 17:59:03,259 [main] INFO CoPla - Click on add filter
+2022-01-07 18:01:18,979 [main] INFO CoPla - Password is entered
+2022-01-07 18:01:24,769 [main] INFO CoPla - Logged in the application
+2022-01-07 18:01:24,769 [main] INFO CoPla - Logged in the application
+2022-01-07 18:01:25,124 [main] INFO CoPla - Click on data screen
+2022-01-07 18:02:06,042 [main] INFO CoPla - Click on prio screen
+2022-01-07 18:02:09,692 [main] INFO CoPla - Click on add filter
+2022-01-07 18:02:13,518 [main] INFO CoPla - Click on select filter
+2022-01-07 18:02:15,252 [main] INFO CoPla - Logged out the application
+2022-01-07 18:03:03,856 [main] INFO CoPla - Password is entered
+2022-01-07 18:03:09,121 [main] INFO CoPla - Logged in the application
+2022-01-07 18:03:09,121 [main] INFO CoPla - Logged in the application
+2022-01-07 18:03:09,418 [main] INFO CoPla - Click on data screen
+2022-01-07 18:03:50,372 [main] INFO CoPla - Click on prio screen
+2022-01-07 18:03:54,032 [main] INFO CoPla - Click on add filter
+2022-01-07 18:03:57,846 [main] INFO CoPla - Click on select filter
+2022-01-07 18:03:59,445 [main] INFO CoPla - Logged out the application
+2022-01-07 18:06:56,060 [main] INFO CoPla - Password is entered
+2022-01-07 18:07:01,357 [main] INFO CoPla - Logged in the application
+2022-01-07 18:07:01,358 [main] INFO CoPla - Logged in the application
+2022-01-07 18:07:01,737 [main] INFO CoPla - Click on data screen
+2022-01-07 18:07:42,749 [main] INFO CoPla - Click on prio screen
+2022-01-07 18:07:43,386 [main] INFO CoPla - Click on add filter
+2022-01-07 18:07:44,157 [main] INFO CoPla - Click on select filter
+2022-01-07 18:07:45,834 [main] INFO CoPla - Logged out the application
+2022-01-07 18:11:41,515 [main] INFO CoPla - Password is entered
+2022-01-07 18:11:46,942 [main] INFO CoPla - Logged in the application
+2022-01-07 18:11:46,942 [main] INFO CoPla - Logged in the application
+2022-01-07 18:11:47,315 [main] INFO CoPla - Click on data screen
+2022-01-07 18:12:28,345 [main] INFO CoPla - Click on prio screen
+2022-01-07 18:12:29,056 [main] INFO CoPla - Click on add filter
+2022-01-07 18:12:29,803 [main] INFO CoPla - Click on select filter
+2022-01-07 18:12:31,374 [main] INFO CoPla - Logged out the application
+2022-01-08 18:10:15,697 [main] INFO CoPla - Click on select filter
+2022-01-08 18:10:15,703 [main] INFO CoPla - Click on select filter
+2022-01-08 18:10:15,713 [main] INFO CoPla - Click on select filter
+2022-01-14 07:55:29,729 [main] INFO CoPla - Password is entered
+2022-01-14 07:55:44,550 [main] INFO CoPla - Logged in the application
+2022-01-14 07:55:44,551 [main] INFO CoPla - Logged in the application
+2022-01-14 07:58:29,886 [main] INFO CoPla - Password is entered
+2022-01-14 07:58:35,276 [main] INFO CoPla - Logged in the application
+2022-01-14 07:58:35,277 [main] INFO CoPla - Logged in the application
+2022-01-14 07:58:35,632 [main] INFO CoPla - Click on data screen
+2022-01-14 07:59:03,359 [main] INFO CoPla - Click on lada screen
+2022-01-14 07:59:06,267 [main] INFO CoPla - Click on add filter
+2022-01-14 07:59:07,133 [main] INFO CoPla - Click on filters
+2022-01-14 07:59:07,890 [main] INFO CoPla - Select sorting code
+2022-01-14 07:59:08,728 [main] INFO CoPla - Click on Operator
+2022-01-14 07:59:10,059 [main] INFO CoPla - Select Operator
+2022-01-14 07:59:30,031 [main] INFO CoPla - Enter the value
+2022-01-14 07:59:30,556 [main] INFO CoPla - Select preference checkbox
+2022-01-14 07:59:35,411 [main] INFO CoPla - Enter the preference name
+2022-01-14 07:59:40,120 [main] INFO CoPla - save the preference with random name
+2022-01-14 07:59:44,500 [main] INFO CoPla - Logged out the application
+2022-01-14 08:00:06,568 [main] INFO CoPla - Password is entered
+2022-01-14 08:00:12,508 [main] INFO CoPla - Logged in the application
+2022-01-14 08:00:12,508 [main] INFO CoPla - Logged in the application
+2022-01-14 08:00:12,809 [main] INFO CoPla - Click on data screen
+2022-01-14 08:00:38,755 [main] INFO CoPla - Click on lada screen
+2022-01-14 08:00:43,756 [main] INFO CoPla - Click on add filter
+2022-01-14 08:00:44,625 [main] INFO CoPla - Click on filters
+2022-01-14 08:00:49,530 [main] INFO CoPla - Select filter and add operators
+2022-01-14 08:00:53,778 [main] INFO CoPla - Select another filter and add operators
+2022-01-14 08:00:55,710 [main] INFO CoPla - Delete last filter
+2022-01-14 08:01:32,171 [main] INFO CoPla - Click on apply filter
+2022-01-14 08:01:32,707 [main] INFO CoPla - Select preference checkbox
+2022-01-14 08:01:37,335 [main] INFO CoPla - Enter the preference name
+2022-01-14 08:01:41,661 [main] INFO CoPla - save the preference with random name
+2022-01-14 08:01:42,913 [main] INFO CoPla - Logged out the application
+2022-01-14 08:02:05,779 [main] INFO CoPla - Password is entered
+2022-01-14 08:02:11,566 [main] INFO CoPla - Logged in the application
+2022-01-14 08:02:11,567 [main] INFO CoPla - Logged in the application
+2022-01-14 08:02:11,788 [main] INFO CoPla - Click on data screen
+2022-01-14 08:02:35,293 [main] INFO CoPla - Click on lada screen
+2022-01-14 08:02:36,451 [main] INFO CoPla - Click on add filter
+2022-01-14 08:02:40,202 [main] INFO CoPla - Click on select filter
+2022-01-14 08:03:06,442 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-14 08:03:07,088 [main] INFO CoPla - Select preference checkbox
+2022-01-14 08:03:12,850 [main] INFO CoPla - Enter the preference name
+2022-01-14 08:03:17,998 [main] INFO CoPla - save the preference with random name
+2022-01-14 08:03:21,932 [main] INFO CoPla - Logged out the application
+2022-01-14 08:03:43,823 [main] INFO CoPla - Password is entered
+2022-01-14 08:03:49,792 [main] INFO CoPla - Logged in the application
+2022-01-14 08:03:49,792 [main] INFO CoPla - Logged in the application
+2022-01-14 08:03:50,019 [main] INFO CoPla - Click on data screen
+2022-01-17 13:13:12,784 [main] INFO CoPla - Password is entered
+2022-01-17 13:13:19,411 [main] INFO CoPla - Logged in the application
+2022-01-17 13:13:19,412 [main] INFO CoPla - Logged in the application
+2022-01-17 13:13:19,726 [main] INFO CoPla - Click on data screen
+2022-01-17 13:18:21,044 [main] INFO CoPla - Click on lada screen
+2022-01-17 13:18:21,719 [main] INFO CoPla - Click on add filter
+2022-01-17 13:18:22,024 [main] INFO CoPla - Click on filters
+2022-01-17 13:18:22,139 [main] INFO CoPla - Select sorting code
+2022-01-17 13:18:22,398 [main] INFO CoPla - Click on Operator
+2022-01-17 13:18:23,057 [main] INFO CoPla - Select Operator
+2022-01-17 13:18:38,986 [main] INFO CoPla - Enter the value
+2022-01-17 13:18:39,514 [main] INFO CoPla - Select preference checkbox
+2022-01-17 13:18:44,331 [main] INFO CoPla - Enter the preference name
+2022-01-17 13:18:49,084 [main] INFO CoPla - save the preference with random name
+2022-01-17 13:18:49,350 [main] INFO CoPla - Logged out the application
+2022-01-17 13:19:13,730 [main] INFO CoPla - Password is entered
+2022-01-17 13:19:19,266 [main] INFO CoPla - Logged in the application
+2022-01-17 13:19:19,267 [main] INFO CoPla - Logged in the application
+2022-01-17 13:19:19,487 [main] INFO CoPla - Click on data screen
+2022-01-17 13:19:34,958 [main] INFO CoPla - Click on lada screen
+2022-01-17 13:19:40,903 [main] INFO CoPla - Click on add filter
+2022-01-17 13:19:41,750 [main] INFO CoPla - Click on filters
+2022-01-17 13:19:47,844 [main] INFO CoPla - Select filter and add operators
+2022-01-17 13:19:53,758 [main] INFO CoPla - Select another filter and add operators
+2022-01-17 13:19:55,660 [main] INFO CoPla - Delete last filter
+2022-01-17 13:20:32,673 [main] INFO CoPla - Click on apply filter
+2022-01-17 13:20:33,547 [main] INFO CoPla - Select preference checkbox
+2022-01-17 13:20:40,579 [main] INFO CoPla - Enter the preference name
+2022-01-17 13:20:45,209 [main] INFO CoPla - save the preference with random name
+2022-01-17 13:20:46,470 [main] INFO CoPla - Logged out the application
+2022-01-17 13:21:08,645 [main] INFO CoPla - Password is entered
+2022-01-17 13:21:14,899 [main] INFO CoPla - Logged in the application
+2022-01-17 13:21:14,899 [main] INFO CoPla - Logged in the application
+2022-01-17 13:21:15,119 [main] INFO CoPla - Click on data screen
+2022-01-17 13:34:54,904 [main] INFO CoPla - Click on lada screen
+2022-01-17 13:35:00,040 [main] INFO CoPla - Click on add filter
+2022-01-17 13:35:03,323 [main] INFO CoPla - Click on select filter
+2022-01-17 13:35:30,597 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-17 13:35:42,815 [main] INFO CoPla - Select preference checkbox
+2022-01-17 13:35:55,003 [main] INFO CoPla - Enter the preference name
+2022-01-17 13:36:10,239 [main] INFO CoPla - save the preference with random name
+2022-01-17 13:36:22,437 [main] INFO CoPla - Logged out the application
+2022-01-17 13:36:50,934 [main] INFO CoPla - Password is entered
+2022-01-17 13:36:56,287 [main] INFO CoPla - Logged in the application
+2022-01-17 13:36:56,289 [main] INFO CoPla - Logged in the application
+2022-01-17 13:36:56,578 [main] INFO CoPla - Click on data screen
+2022-01-17 13:47:17,680 [main] INFO CoPla - Click on prio screen
+2022-01-17 13:47:29,842 [main] INFO CoPla - Click on add filter
+2022-01-17 13:47:42,021 [main] INFO CoPla - Click on select filter
+2022-01-17 13:47:54,205 [main] INFO CoPla - Logged out the application
+2022-01-17 15:24:32,650 [main] INFO CoPla - Password is entered
+2022-01-17 15:24:39,367 [main] INFO CoPla - Logged in the application
+2022-01-17 15:24:39,368 [main] INFO CoPla - Logged in the application
+2022-01-17 15:24:39,881 [main] INFO CoPla - Click on data screen
+2022-01-17 15:27:09,484 [main] INFO CoPla - Password is entered
+2022-01-17 15:27:15,540 [main] INFO CoPla - Logged in the application
+2022-01-17 15:27:15,541 [main] INFO CoPla - Logged in the application
+2022-01-17 15:27:19,878 [main] INFO CoPla - Click on data screen
+2022-01-17 15:32:35,862 [main] INFO CoPla - Click on lada screen
+2022-01-17 15:32:48,064 [main] INFO CoPla - Click on add filter
+2022-01-17 15:34:30,822 [main] INFO CoPla - Password is entered
+2022-01-17 15:34:37,380 [main] INFO CoPla - Logged in the application
+2022-01-17 15:34:37,381 [main] INFO CoPla - Logged in the application
+2022-01-17 15:34:40,487 [main] INFO CoPla - Click on data screen
+2022-01-17 15:34:48,851 [main] INFO CoPla - Click on lada screen
+2022-01-17 15:35:54,457 [main] INFO CoPla - Password is entered
+2022-01-17 15:36:01,005 [main] INFO CoPla - Logged in the application
+2022-01-17 15:36:01,006 [main] INFO CoPla - Logged in the application
+2022-01-17 15:36:11,139 [main] INFO CoPla - Click on data screen
+2022-01-17 15:36:19,605 [main] INFO CoPla - Click on lada screen
+2022-01-17 15:36:19,909 [main] INFO CoPla - Click on add filter
+2022-01-17 15:36:20,335 [main] INFO CoPla - Click on filters
+2022-01-17 15:36:20,476 [main] INFO CoPla - Select sorting code
+2022-01-17 15:36:24,351 [main] INFO CoPla - Click on Operator
+2022-01-17 15:36:25,177 [main] INFO CoPla - Select Operator
+2022-01-17 15:36:44,616 [main] INFO CoPla - Enter the value
+2022-01-17 15:36:45,294 [main] INFO CoPla - Select preference checkbox
+2022-01-17 15:36:51,157 [main] INFO CoPla - Enter the preference name
+2022-01-17 15:36:55,940 [main] INFO CoPla - save the preference with random name
+2022-01-17 15:36:56,285 [main] INFO CoPla - Logged out the application
+2022-01-17 15:38:24,579 [main] INFO CoPla - Password is entered
+2022-01-17 15:38:30,833 [main] INFO CoPla - Logged in the application
+2022-01-17 15:38:30,834 [main] INFO CoPla - Logged in the application
+2022-01-17 15:38:41,244 [main] INFO CoPla - Click on data screen
+2022-01-17 15:38:50,207 [main] INFO CoPla - Click on lada screen
+2022-01-17 15:38:52,769 [main] INFO CoPla - Click on add filter
+2022-01-17 15:38:53,723 [main] INFO CoPla - Click on filters
+2022-01-17 15:38:54,438 [main] INFO CoPla - Select sorting code
+2022-01-17 15:38:55,214 [main] INFO CoPla - Click on Operator
+2022-01-17 15:38:56,599 [main] INFO CoPla - Select Operator
+2022-01-17 15:39:16,072 [main] INFO CoPla - Enter the value
+2022-01-17 15:39:16,792 [main] INFO CoPla - Select preference checkbox
+2022-01-17 15:39:22,772 [main] INFO CoPla - Enter the preference name
+2022-01-17 15:39:27,486 [main] INFO CoPla - save the preference with random name
+2022-01-17 15:39:27,861 [main] INFO CoPla - Logged out the application
+2022-01-17 15:43:47,339 [main] INFO CoPla - Password is entered
+2022-01-17 15:43:53,941 [main] INFO CoPla - Logged in the application
+2022-01-17 15:43:53,941 [main] INFO CoPla - Logged in the application
+2022-01-17 15:44:04,350 [main] INFO CoPla - Click on data screen
+2022-01-17 15:44:13,336 [main] INFO CoPla - Click on lada screen
+2022-01-17 15:44:15,785 [main] INFO CoPla - Click on add filter
+2022-01-17 15:44:16,795 [main] INFO CoPla - Click on filters
+2022-01-17 15:44:17,477 [main] INFO CoPla - Select sorting code
+2022-01-17 15:44:18,274 [main] INFO CoPla - Click on Operator
+2022-01-17 15:44:19,592 [main] INFO CoPla - Select Operator
+2022-01-17 15:44:39,130 [main] INFO CoPla - Enter the value
+2022-01-17 15:44:39,869 [main] INFO CoPla - Select preference checkbox
+2022-01-17 15:44:45,913 [main] INFO CoPla - Enter the preference name
+2022-01-17 15:44:50,553 [main] INFO CoPla - save the preference with random name
+2022-01-17 15:44:50,929 [main] INFO CoPla - Logged out the application
+2022-01-17 15:45:13,462 [main] INFO CoPla - Password is entered
+2022-01-17 15:45:21,485 [main] INFO CoPla - Logged in the application
+2022-01-17 15:45:21,486 [main] INFO CoPla - Logged in the application
+2022-01-17 15:45:31,768 [main] INFO CoPla - Click on data screen
+2022-01-17 15:45:39,745 [main] INFO CoPla - Click on lada screen
+2022-01-17 15:45:44,856 [main] INFO CoPla - Click on add filter
+2022-01-17 15:45:45,821 [main] INFO CoPla - Click on filters
+2022-01-17 15:45:51,365 [main] INFO CoPla - Select filter and add operators
+2022-01-17 15:45:56,279 [main] INFO CoPla - Select another filter and add operators
+2022-01-17 15:45:57,980 [main] INFO CoPla - Delete last filter
+2022-01-17 15:46:34,820 [main] INFO CoPla - Click on apply filter
+2022-01-17 15:46:36,296 [main] INFO CoPla - Select preference checkbox
+2022-01-17 15:46:51,708 [main] INFO CoPla - Enter the preference name
+2022-01-17 15:46:57,851 [main] INFO CoPla - save the preference with random name
+2022-01-17 15:47:09,217 [main] INFO CoPla - Logged out the application
+2022-01-17 15:47:31,861 [main] INFO CoPla - Password is entered
+2022-01-17 15:47:38,580 [main] INFO CoPla - Logged in the application
+2022-01-17 15:47:38,581 [main] INFO CoPla - Logged in the application
+2022-01-17 15:47:48,886 [main] INFO CoPla - Click on data screen
+2022-01-17 15:47:56,849 [main] INFO CoPla - Click on lada screen
+2022-01-17 15:47:58,026 [main] INFO CoPla - Click on add filter
+2022-01-17 15:48:01,955 [main] INFO CoPla - Click on select filter
+2022-01-17 15:48:33,622 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-17 15:48:33,692 [main] INFO CoPla - Select preference checkbox
+2022-01-18 12:53:58,222 [main] INFO CoPla - Password is entered
+2022-01-18 12:54:04,247 [main] INFO CoPla - Logged in the application
+2022-01-18 12:54:04,247 [main] INFO CoPla - Logged in the application
+2022-01-18 12:54:14,652 [main] INFO CoPla - Click on data screen
+2022-01-18 12:54:23,602 [main] INFO CoPla - Click on lada screen
+2022-01-18 12:54:26,426 [main] INFO CoPla - Click on add filter
+2022-01-18 12:54:27,220 [main] INFO CoPla - Click on filters
+2022-01-18 12:54:27,822 [main] INFO CoPla - Select sorting code
+2022-01-18 12:54:28,655 [main] INFO CoPla - Click on Operator
+2022-01-18 12:54:30,174 [main] INFO CoPla - Select Operator
+2022-01-18 12:54:50,406 [main] INFO CoPla - Enter the value
+2022-01-18 12:54:50,976 [main] INFO CoPla - Select preference checkbox
+2022-01-18 12:54:59,102 [main] INFO CoPla - Enter the preference name
+2022-01-18 12:55:03,997 [main] INFO CoPla - save the preference with random name
+2022-01-18 12:55:04,262 [main] INFO CoPla - Logged out the application
+2022-01-18 12:55:26,124 [main] INFO CoPla - Password is entered
+2022-01-18 12:55:32,177 [main] INFO CoPla - Logged in the application
+2022-01-18 12:55:32,177 [main] INFO CoPla - Logged in the application
+2022-01-18 12:55:42,466 [main] INFO CoPla - Click on data screen
+2022-01-18 12:55:50,428 [main] INFO CoPla - Click on lada screen
+2022-01-18 12:55:56,182 [main] INFO CoPla - Click on add filter
+2022-01-18 12:55:57,001 [main] INFO CoPla - Click on filters
+2022-01-18 12:56:01,930 [main] INFO CoPla - Select filter and add operators
+2022-01-18 12:56:06,560 [main] INFO CoPla - Select another filter and add operators
+2022-01-18 12:56:08,270 [main] INFO CoPla - Delete last filter
+2022-01-18 12:56:44,815 [main] INFO CoPla - Click on apply filter
+2022-01-18 12:56:45,370 [main] INFO CoPla - Select preference checkbox
+2022-01-18 12:56:50,160 [main] INFO CoPla - Enter the preference name
+2022-01-18 12:56:54,394 [main] INFO CoPla - save the preference with random name
+2022-01-18 12:56:55,753 [main] INFO CoPla - Logged out the application
+2022-01-18 12:57:17,283 [main] INFO CoPla - Password is entered
+2022-01-18 12:57:23,274 [main] INFO CoPla - Logged in the application
+2022-01-18 12:57:23,275 [main] INFO CoPla - Logged in the application
+2022-01-18 12:57:33,658 [main] INFO CoPla - Click on data screen
+2022-01-18 12:57:41,562 [main] INFO CoPla - Click on lada screen
+2022-01-18 12:57:42,545 [main] INFO CoPla - Click on add filter
+2022-01-18 12:57:46,360 [main] INFO CoPla - Click on select filter
+2022-01-18 12:58:12,601 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-18 12:58:13,262 [main] INFO CoPla - Select preference checkbox
+2022-01-18 12:58:18,209 [main] INFO CoPla - Enter the preference name
+2022-01-18 12:58:22,731 [main] INFO CoPla - save the preference with random name
+2022-01-18 12:58:26,107 [main] INFO CoPla - Logged out the application
+2022-01-18 12:58:51,581 [main] INFO CoPla - Password is entered
+2022-01-18 12:58:57,033 [main] INFO CoPla - Logged in the application
+2022-01-18 12:58:57,034 [main] INFO CoPla - Logged in the application
+2022-01-18 12:59:07,348 [main] INFO CoPla - Click on data screen
+2022-01-18 12:59:48,318 [main] INFO CoPla - Click on prio screen
+2022-01-18 12:59:49,289 [main] INFO CoPla - Click on add filter
+2022-01-18 12:59:50,083 [main] INFO CoPla - Click on select filter
+2022-01-18 12:59:51,874 [main] INFO CoPla - Logged out the application
+2022-01-18 16:34:41,970 [main] INFO CoPla - Password is entered
+2022-01-18 16:34:48,306 [main] INFO CoPla - Logged in the application
+2022-01-18 16:34:48,307 [main] INFO CoPla - Logged in the application
+2022-01-18 16:34:58,758 [main] INFO CoPla - Click on data screen
+2022-01-18 16:35:07,735 [main] INFO CoPla - Click on lada screen
+2022-01-18 16:35:08,032 [main] INFO CoPla - Click on add filter
+2022-01-18 16:35:08,451 [main] INFO CoPla - Click on filters
+2022-01-18 16:35:08,583 [main] INFO CoPla - Select sorting code
+2022-01-18 16:35:12,485 [main] INFO CoPla - Click on Operator
+2022-01-18 16:35:13,274 [main] INFO CoPla - Select Operator
+2022-01-18 16:35:32,745 [main] INFO CoPla - Enter the value
+2022-01-18 16:35:33,487 [main] INFO CoPla - Select preference checkbox
+2022-01-18 16:35:39,086 [main] INFO CoPla - Enter the preference name
+2022-01-18 16:35:43,903 [main] INFO CoPla - save the preference with random name
+2022-01-18 16:35:44,301 [main] INFO CoPla - Logged out the application
+2022-01-18 16:36:19,923 [main] INFO CoPla - Password is entered
+2022-01-18 16:36:26,147 [main] INFO CoPla - Logged in the application
+2022-01-18 16:36:26,148 [main] INFO CoPla - Logged in the application
+2022-01-18 16:36:36,472 [main] INFO CoPla - Click on data screen
+2022-01-18 16:36:44,457 [main] INFO CoPla - Click on lada screen
+2022-01-18 16:36:48,747 [main] INFO CoPla - Click on add filter
+2022-01-18 16:36:49,876 [main] INFO CoPla - Click on filters
+2022-01-18 16:36:55,557 [main] INFO CoPla - Select filter and add operators
+2022-01-18 16:37:00,643 [main] INFO CoPla - Select another filter and add operators
+2022-01-18 16:37:02,300 [main] INFO CoPla - Delete last filter
+2022-01-18 16:37:39,317 [main] INFO CoPla - Click on apply filter
+2022-01-18 16:37:39,959 [main] INFO CoPla - Select preference checkbox
+2022-01-18 16:37:45,702 [main] INFO CoPla - Enter the preference name
+2022-01-18 16:37:50,241 [main] INFO CoPla - save the preference with random name
+2022-01-18 16:37:52,219 [main] INFO CoPla - Logged out the application
+2022-01-18 16:38:20,135 [main] INFO CoPla - Password is entered
+2022-01-18 16:38:26,956 [main] INFO CoPla - Logged in the application
+2022-01-18 16:38:26,957 [main] INFO CoPla - Logged in the application
+2022-01-18 16:38:37,395 [main] INFO CoPla - Click on data screen
+2022-01-18 16:38:45,364 [main] INFO CoPla - Click on lada screen
+2022-01-18 16:38:46,122 [main] INFO CoPla - Click on add filter
+2022-01-18 16:38:50,421 [main] INFO CoPla - Click on select filter
+2022-01-18 16:39:17,892 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-18 16:39:18,653 [main] INFO CoPla - Select preference checkbox
+2022-01-18 16:39:24,668 [main] INFO CoPla - Enter the preference name
+2022-01-18 16:39:29,417 [main] INFO CoPla - save the preference with random name
+2022-01-18 16:39:32,863 [main] INFO CoPla - Logged out the application
+2022-01-18 16:39:57,752 [main] INFO CoPla - Password is entered
+2022-01-18 16:40:04,428 [main] INFO CoPla - Logged in the application
+2022-01-18 16:40:04,429 [main] INFO CoPla - Logged in the application
+2022-01-18 16:40:14,832 [main] INFO CoPla - Click on data screen
+2022-01-18 16:40:55,783 [main] INFO CoPla - Click on prio screen
+2022-01-18 16:40:56,639 [main] INFO CoPla - Click on add filter
+2022-01-18 16:40:57,582 [main] INFO CoPla - Click on select filter
+2022-01-18 16:40:59,404 [main] INFO CoPla - Logged out the application
+2022-01-18 16:56:28,515 [main] INFO CoPla - Password is entered
+2022-01-18 16:56:35,377 [main] INFO CoPla - Logged in the application
+2022-01-18 16:56:35,378 [main] INFO CoPla - Logged in the application
+2022-01-18 16:56:45,811 [main] INFO CoPla - Click on data screen
+2022-01-18 16:57:26,809 [main] INFO CoPla - Click on prio screen
+2022-01-18 16:57:27,596 [main] INFO CoPla - Click on add filter
+2022-01-18 16:57:28,485 [main] INFO CoPla - Click on select filter
+2022-01-18 16:57:30,201 [main] INFO CoPla - Logged out the application
+2022-01-18 17:10:19,797 [main] INFO CoPla - Password is entered
+2022-01-18 17:10:29,313 [main] INFO CoPla - Logged in the application
+2022-01-18 17:10:29,314 [main] INFO CoPla - Logged in the application
+2022-01-18 17:10:40,023 [main] INFO CoPla - Click on data screen
+2022-01-18 17:11:21,048 [main] INFO CoPla - Click on prio screen
+2022-01-18 17:11:22,701 [main] INFO CoPla - Click on add filter
+2022-01-18 17:11:24,469 [main] INFO CoPla - Click on select filter
+2022-01-18 17:11:36,876 [main] INFO CoPla - Add filter one
+2022-01-18 17:11:40,629 [main] INFO CoPla - Logged out the application
+2022-01-18 17:15:02,729 [main] INFO CoPla - Password is entered
+2022-01-18 17:15:09,362 [main] INFO CoPla - Logged in the application
+2022-01-18 17:15:09,364 [main] INFO CoPla - Logged in the application
+2022-01-18 17:15:19,875 [main] INFO CoPla - Click on data screen
+2022-01-18 17:16:00,879 [main] INFO CoPla - Click on prio screen
+2022-01-18 17:16:02,029 [main] INFO CoPla - Click on add filter
+2022-01-18 17:16:03,020 [main] INFO CoPla - Click on select filter
+2022-01-18 17:16:06,289 [main] INFO CoPla - Add filter one
+2022-01-18 17:16:15,928 [main] INFO CoPla - Logged out the application
+2022-01-18 17:18:18,875 [main] INFO CoPla - Password is entered
+2022-01-18 17:18:25,484 [main] INFO CoPla - Logged in the application
+2022-01-18 17:18:25,485 [main] INFO CoPla - Logged in the application
+2022-01-18 17:18:35,910 [main] INFO CoPla - Click on data screen
+2022-01-18 17:19:16,918 [main] INFO CoPla - Click on prio screen
+2022-01-18 17:19:17,996 [main] INFO CoPla - Click on add filter
+2022-01-18 17:19:18,897 [main] INFO CoPla - Click on select filter
+2022-01-18 17:19:25,426 [main] INFO CoPla - Add filter one
+2022-01-18 17:19:26,762 [main] INFO CoPla - Logged out the application
+2022-01-18 17:39:37,567 [main] INFO CoPla - Password is entered
+2022-01-18 17:39:45,271 [main] INFO CoPla - Logged in the application
+2022-01-18 17:39:45,272 [main] INFO CoPla - Logged in the application
+2022-01-18 17:39:55,877 [main] INFO CoPla - Click on data screen
+2022-01-18 17:40:36,877 [main] INFO CoPla - Click on prio screen
+2022-01-18 17:40:38,049 [main] INFO CoPla - Click on add filter
+2022-01-18 17:40:39,020 [main] INFO CoPla - Click on select filter
+2022-01-18 17:41:01,116 [main] INFO CoPla - Add filter one
+2022-01-18 17:45:02,103 [main] INFO CoPla - Password is entered
+2022-01-18 17:45:09,023 [main] INFO CoPla - Logged in the application
+2022-01-18 17:45:09,024 [main] INFO CoPla - Logged in the application
+2022-01-18 17:45:19,447 [main] INFO CoPla - Click on data screen
+2022-01-18 17:46:00,449 [main] INFO CoPla - Click on prio screen
+2022-01-18 17:46:01,580 [main] INFO CoPla - Click on add filter
+2022-01-18 17:46:02,522 [main] INFO CoPla - Click on select filter
+2022-01-18 17:46:14,662 [main] INFO CoPla - Add second one
+2022-01-18 17:48:38,234 [main] INFO CoPla - Password is entered
+2022-01-18 17:48:46,305 [main] INFO CoPla - Logged in the application
+2022-01-18 17:48:46,306 [main] INFO CoPla - Logged in the application
+2022-01-18 17:48:56,900 [main] INFO CoPla - Click on data screen
+2022-01-18 17:49:37,926 [main] INFO CoPla - Click on prio screen
+2022-01-18 17:49:38,788 [main] INFO CoPla - Click on add filter
+2022-01-18 17:49:39,695 [main] INFO CoPla - Click on select filter
+2022-01-18 17:49:51,804 [main] INFO CoPla - Add second one
+2022-01-18 17:49:52,886 [main] INFO CoPla - Logged out the application
+2022-01-18 17:55:05,873 [main] INFO CoPla - Password is entered
+2022-01-18 17:55:12,562 [main] INFO CoPla - Logged in the application
+2022-01-18 17:55:12,563 [main] INFO CoPla - Logged in the application
+2022-01-18 17:55:23,011 [main] INFO CoPla - Click on data screen
+2022-01-18 17:56:03,989 [main] INFO CoPla - Click on prio screen
+2022-01-18 17:56:04,801 [main] INFO CoPla - Click on add filter
+2022-01-18 17:56:05,907 [main] INFO CoPla - Click on select filter
+2022-01-18 17:56:17,369 [main] INFO CoPla - Add second one
+2022-01-18 18:02:13,363 [main] INFO CoPla - Password is entered
+2022-01-18 18:02:21,490 [main] INFO CoPla - Logged in the application
+2022-01-18 18:02:21,491 [main] INFO CoPla - Logged in the application
+2022-01-18 18:02:31,950 [main] INFO CoPla - Click on data screen
+2022-01-18 18:03:12,964 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:03:13,700 [main] INFO CoPla - Click on add filter
+2022-01-18 18:03:14,607 [main] INFO CoPla - Click on select filter
+2022-01-18 18:03:26,639 [main] INFO CoPla - Add second one
+2022-01-18 18:03:28,175 [main] INFO CoPla - Logged out the application
+2022-01-18 18:07:55,039 [main] INFO CoPla - Password is entered
+2022-01-18 18:08:01,422 [main] INFO CoPla - Logged in the application
+2022-01-18 18:08:01,422 [main] INFO CoPla - Logged in the application
+2022-01-18 18:08:11,830 [main] INFO CoPla - Click on data screen
+2022-01-18 18:08:52,822 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:08:53,663 [main] INFO CoPla - Click on add filter
+2022-01-18 18:08:54,640 [main] INFO CoPla - Click on select filter
+2022-01-18 18:09:06,679 [main] INFO CoPla - Add second one
+2022-01-18 18:09:08,720 [main] INFO CoPla - Logged out the application
+2022-01-18 18:13:45,590 [main] INFO CoPla - Password is entered
+2022-01-18 18:13:52,192 [main] INFO CoPla - Logged in the application
+2022-01-18 18:13:52,193 [main] INFO CoPla - Logged in the application
+2022-01-18 18:14:02,852 [main] INFO CoPla - Click on data screen
+2022-01-18 18:14:43,851 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:14:45,047 [main] INFO CoPla - Click on add filter
+2022-01-18 18:14:46,004 [main] INFO CoPla - Click on select filter
+2022-01-18 18:15:04,082 [main] INFO CoPla - Add second one
+2022-01-18 18:15:06,116 [main] INFO CoPla - Logged out the application
+2022-01-18 18:16:54,659 [main] INFO CoPla - Password is entered
+2022-01-18 18:17:01,355 [main] INFO CoPla - Logged in the application
+2022-01-18 18:17:01,355 [main] INFO CoPla - Logged in the application
+2022-01-18 18:17:11,798 [main] INFO CoPla - Click on data screen
+2022-01-18 18:17:52,823 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:17:53,922 [main] INFO CoPla - Click on add filter
+2022-01-18 18:17:54,888 [main] INFO CoPla - Click on select filter
+2022-01-18 18:18:14,013 [main] INFO CoPla - Add second one
+2022-01-18 18:18:15,670 [main] INFO CoPla - Logged out the application
+2022-01-18 18:29:39,375 [main] INFO CoPla - Password is entered
+2022-01-18 18:29:45,318 [main] INFO CoPla - Logged in the application
+2022-01-18 18:29:45,319 [main] INFO CoPla - Logged in the application
+2022-01-18 18:29:55,646 [main] INFO CoPla - Click on data screen
+2022-01-18 18:30:36,584 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:30:37,575 [main] INFO CoPla - Click on add filter
+2022-01-18 18:30:38,390 [main] INFO CoPla - Click on select filter
+2022-01-18 18:30:59,638 [main] INFO CoPla - Add filter one
+2022-01-18 18:31:00,579 [main] INFO CoPla - Logged out the application
+2022-01-18 18:33:06,059 [main] INFO CoPla - Password is entered
+2022-01-18 18:33:12,125 [main] INFO CoPla - Logged in the application
+2022-01-18 18:33:12,126 [main] INFO CoPla - Logged in the application
+2022-01-18 18:33:22,515 [main] INFO CoPla - Click on data screen
+2022-01-18 18:34:03,386 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:34:04,054 [main] INFO CoPla - Click on add filter
+2022-01-18 18:34:04,806 [main] INFO CoPla - Click on select filter
+2022-01-18 18:34:25,796 [main] INFO CoPla - Add filter one
+2022-01-18 18:34:26,804 [main] INFO CoPla - Logged out the application
+2022-01-18 18:41:23,132 [main] INFO CoPla - Password is entered
+2022-01-18 18:41:28,654 [main] INFO CoPla - Logged in the application
+2022-01-18 18:41:28,655 [main] INFO CoPla - Logged in the application
+2022-01-18 18:41:38,985 [main] INFO CoPla - Click on data screen
+2022-01-18 18:42:19,872 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:42:20,506 [main] INFO CoPla - Click on add filter
+2022-01-18 18:42:21,299 [main] INFO CoPla - Click on select filter
+2022-01-18 18:42:42,536 [main] INFO CoPla - Add filter one
+2022-01-18 18:42:43,662 [main] INFO CoPla - Click on add filter button2
+2022-01-18 18:44:09,373 [main] INFO CoPla - Password is entered
+2022-01-18 18:44:16,398 [main] INFO CoPla - Logged in the application
+2022-01-18 18:44:16,399 [main] INFO CoPla - Logged in the application
+2022-01-18 18:44:26,738 [main] INFO CoPla - Click on data screen
+2022-01-18 18:45:07,667 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:45:08,382 [main] INFO CoPla - Click on add filter
+2022-01-18 18:45:09,180 [main] INFO CoPla - Click on select filter
+2022-01-18 18:45:30,218 [main] INFO CoPla - Add filter one
+2022-01-18 18:45:31,382 [main] INFO CoPla - Click on add filter button2
+2022-01-18 18:48:46,480 [main] INFO CoPla - Password is entered
+2022-01-18 18:48:52,860 [main] INFO CoPla - Logged in the application
+2022-01-18 18:48:52,861 [main] INFO CoPla - Logged in the application
+2022-01-18 18:49:03,178 [main] INFO CoPla - Click on data screen
+2022-01-18 18:49:44,132 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:49:45,180 [main] INFO CoPla - Click on add filter
+2022-01-18 18:49:46,010 [main] INFO CoPla - Click on select filter
+2022-01-18 18:50:07,242 [main] INFO CoPla - Add filter one
+2022-01-18 18:50:08,307 [main] INFO CoPla - Click on add filter button2
+2022-01-18 18:50:27,435 [main] INFO CoPla - Add second one
+2022-01-18 18:50:28,665 [main] INFO CoPla - Logged out the application
+2022-01-18 18:51:36,693 [main] INFO CoPla - Password is entered
+2022-01-18 18:51:42,164 [main] INFO CoPla - Logged in the application
+2022-01-18 18:51:42,165 [main] INFO CoPla - Logged in the application
+2022-01-18 18:51:52,471 [main] INFO CoPla - Click on data screen
+2022-01-18 18:52:33,337 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:52:34,316 [main] INFO CoPla - Click on add filter
+2022-01-18 18:52:35,111 [main] INFO CoPla - Click on select filter
+2022-01-18 18:52:56,260 [main] INFO CoPla - Add filter one
+2022-01-18 18:52:57,689 [main] INFO CoPla - Click on add filter button2
+2022-01-18 18:53:18,512 [main] INFO CoPla - Add second one
+2022-01-18 18:53:20,106 [main] INFO CoPla - Logged out the application
+2022-01-18 18:54:11,017 [main] INFO CoPla - Password is entered
+2022-01-18 18:54:20,352 [main] INFO CoPla - Logged in the application
+2022-01-18 18:54:20,353 [main] INFO CoPla - Logged in the application
+2022-01-18 18:54:30,662 [main] INFO CoPla - Click on data screen
+2022-01-18 18:55:11,553 [main] INFO CoPla - Click on prio screen
+2022-01-18 18:55:12,559 [main] INFO CoPla - Click on add filter
+2022-01-18 18:55:13,309 [main] INFO CoPla - Click on select filter
+2022-01-18 18:55:34,359 [main] INFO CoPla - Add filter one
+2022-01-18 18:55:35,417 [main] INFO CoPla - Click on add filter button2
+2022-01-18 18:55:55,801 [main] INFO CoPla - Add second one
+2022-01-18 18:55:57,279 [main] INFO CoPla - Logged out the application
+2022-01-19 09:41:57,587 [main] INFO CoPla - Logged out the application
+2022-01-19 09:41:57,667 [main] INFO CoPla - Add second one
+2022-01-19 09:47:09,645 [main] INFO CoPla - Password is entered
+2022-01-19 09:47:15,310 [main] INFO CoPla - Logged in the application
+2022-01-19 09:47:15,311 [main] INFO CoPla - Logged in the application
+2022-01-19 09:47:25,683 [main] INFO CoPla - Click on data screen
+2022-01-19 09:47:34,625 [main] INFO CoPla - Click on lada screen
+2022-01-19 09:47:34,802 [main] INFO CoPla - Click on add filter
+2022-01-19 09:59:09,992 [main] INFO CoPla - Password is entered
+2022-01-19 09:59:16,294 [main] INFO CoPla - Logged in the application
+2022-01-19 09:59:16,294 [main] INFO CoPla - Logged in the application
+2022-01-19 09:59:26,732 [main] INFO CoPla - Click on data screen
+2022-01-19 09:59:35,668 [main] INFO CoPla - Click on lada screen
+2022-01-19 09:59:37,216 [main] INFO CoPla - Click on add filter
+2022-01-19 09:59:38,197 [main] INFO CoPla - Click on filters
+2022-01-19 09:59:38,866 [main] INFO CoPla - Select sorting code
+2022-01-19 09:59:39,648 [main] INFO CoPla - Click on Operator
+2022-01-19 09:59:41,201 [main] INFO CoPla - Select Operator
+2022-01-19 10:00:03,983 [main] INFO CoPla - Enter the value
+2022-01-19 10:00:05,443 [main] INFO CoPla - Select preference checkbox
+2022-01-19 10:00:17,556 [main] INFO CoPla - Enter the preference name
+2022-01-19 10:00:22,837 [main] INFO CoPla - save the preference with random name
+2022-01-19 10:00:24,311 [main] INFO CoPla - Logged out the application
+2022-01-19 10:00:54,137 [main] INFO CoPla - Password is entered
+2022-01-19 10:01:00,255 [main] INFO CoPla - Logged in the application
+2022-01-19 10:01:00,256 [main] INFO CoPla - Logged in the application
+2022-01-19 10:01:10,701 [main] INFO CoPla - Click on data screen
+2022-01-19 10:01:18,669 [main] INFO CoPla - Click on lada screen
+2022-01-19 10:01:32,779 [main] INFO CoPla - Click on add filter
+2022-01-19 10:09:50,758 [main] INFO CoPla - Click on filters
+2022-01-19 10:10:02,957 [main] INFO CoPla - Select filter and add operators
+2022-01-19 10:10:15,144 [main] INFO CoPla - Select another filter and add operators
+2022-01-19 10:10:27,350 [main] INFO CoPla - Delete last filter
+2022-01-19 10:11:14,517 [main] INFO CoPla - Click on apply filter
+2022-01-19 10:11:26,679 [main] INFO CoPla - Select preference checkbox
+2022-01-19 10:11:38,841 [main] INFO CoPla - Enter the preference name
+2022-01-19 10:11:53,957 [main] INFO CoPla - save the preference with random name
+2022-01-19 10:12:06,107 [main] INFO CoPla - Logged out the application
+2022-01-19 10:12:36,840 [main] INFO CoPla - Password is entered
+2022-01-19 10:12:43,266 [main] INFO CoPla - Logged in the application
+2022-01-19 10:12:43,266 [main] INFO CoPla - Logged in the application
+2022-01-19 10:12:53,554 [main] INFO CoPla - Click on data screen
+2022-01-19 10:13:01,570 [main] INFO CoPla - Click on lada screen
+2022-01-19 10:13:02,106 [main] INFO CoPla - Click on add filter
+2022-01-19 10:13:05,466 [main] INFO CoPla - Click on select filter
+2022-01-19 10:13:35,808 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-19 10:13:36,682 [main] INFO CoPla - Select preference checkbox
+2022-01-19 10:13:45,570 [main] INFO CoPla - Enter the preference name
+2022-01-19 10:13:51,375 [main] INFO CoPla - save the preference with random name
+2022-01-19 10:13:57,308 [main] INFO CoPla - Logged out the application
+2022-01-19 10:14:23,792 [main] INFO CoPla - Password is entered
+2022-01-19 10:14:30,175 [main] INFO CoPla - Logged in the application
+2022-01-19 10:14:30,176 [main] INFO CoPla - Logged in the application
+2022-01-19 10:14:40,489 [main] INFO CoPla - Click on data screen
+2022-01-19 10:15:21,450 [main] INFO CoPla - Click on prio screen
+2022-01-19 10:15:25,555 [main] INFO CoPla - Click on add filter
+2022-01-19 10:15:27,305 [main] INFO CoPla - Click on select filter
+2022-01-19 10:15:54,041 [main] INFO CoPla - Add filter one
+2022-01-19 10:15:56,772 [main] INFO CoPla - Click on add filter button2
+2022-01-19 10:16:23,505 [main] INFO CoPla - Add second one
+2022-01-19 10:16:24,588 [main] INFO CoPla - Logged out the application
+2022-01-19 10:20:06,810 [main] INFO CoPla - Password is entered
+2022-01-19 10:20:13,085 [main] INFO CoPla - Logged in the application
+2022-01-19 10:20:13,086 [main] INFO CoPla - Logged in the application
+2022-01-19 10:20:23,503 [main] INFO CoPla - Click on data screen
+2022-01-19 10:21:04,525 [main] INFO CoPla - Click on prio screen
+2022-01-19 10:21:05,371 [main] INFO CoPla - Click on add filter
+2022-01-19 10:21:06,339 [main] INFO CoPla - Click on select filter
+2022-01-19 10:21:28,286 [main] INFO CoPla - Add filter one
+2022-01-19 10:21:29,549 [main] INFO CoPla - Click on add filter button2
+2022-01-19 10:21:50,704 [main] INFO CoPla - Add second one
+2022-01-19 10:21:52,402 [main] INFO CoPla - Logged out the application
+2022-01-19 10:26:03,832 [main] INFO CoPla - Password is entered
+2022-01-19 10:26:10,507 [main] INFO CoPla - Logged in the application
+2022-01-19 10:26:10,507 [main] INFO CoPla - Logged in the application
+2022-01-19 10:26:20,941 [main] INFO CoPla - Click on data screen
+2022-01-19 10:27:01,933 [main] INFO CoPla - Click on prio screen
+2022-01-19 10:27:02,770 [main] INFO CoPla - Click on add filter
+2022-01-19 10:27:03,665 [main] INFO CoPla - Click on select filter
+2022-01-19 10:27:25,735 [main] INFO CoPla - Add filter one
+2022-01-19 10:27:26,967 [main] INFO CoPla - Click on add filter button2
+2022-01-19 10:27:47,867 [main] INFO CoPla - Add second one
+2022-01-19 10:27:49,073 [main] INFO CoPla - Select preference checkbox
+2022-01-19 10:34:53,738 [main] INFO CoPla - Password is entered
+2022-01-19 10:35:01,445 [main] INFO CoPla - Logged in the application
+2022-01-19 10:35:01,446 [main] INFO CoPla - Logged in the application
+2022-01-19 10:35:11,908 [main] INFO CoPla - Click on data screen
+2022-01-19 10:35:52,909 [main] INFO CoPla - Click on prio screen
+2022-01-19 10:35:53,752 [main] INFO CoPla - Click on add filter
+2022-01-19 10:35:54,662 [main] INFO CoPla - Click on select filter
+2022-01-19 10:36:16,583 [main] INFO CoPla - Add filter one
+2022-01-19 10:36:17,993 [main] INFO CoPla - Click on add filter button2
+2022-01-19 10:36:39,173 [main] INFO CoPla - Add second one
+2022-01-19 10:36:40,467 [main] INFO CoPla - Select preference checkbox
+2022-01-19 10:36:45,988 [main] INFO CoPla - Enter the preference name
+2022-01-19 10:36:50,429 [main] INFO CoPla - save the preference with random name
+2022-01-19 10:36:50,683 [main] INFO CoPla - Logged out the application
+2022-01-19 10:38:15,875 [main] INFO CoPla - Password is entered
+2022-01-19 10:38:22,326 [main] INFO CoPla - Logged in the application
+2022-01-19 10:38:22,327 [main] INFO CoPla - Logged in the application
+2022-01-19 10:38:32,773 [main] INFO CoPla - Click on data screen
+2022-01-19 10:39:13,776 [main] INFO CoPla - Click on prio screen
+2022-01-19 10:39:14,777 [main] INFO CoPla - Click on add filter
+2022-01-19 10:39:15,680 [main] INFO CoPla - Click on select filter
+2022-01-19 10:39:37,857 [main] INFO CoPla - Add filter one
+2022-01-19 10:39:39,136 [main] INFO CoPla - Click on add filter button2
+2022-01-19 10:40:00,470 [main] INFO CoPla - Add second one
+2022-01-19 10:40:01,586 [main] INFO CoPla - Select preference checkbox
+2022-01-19 10:40:07,523 [main] INFO CoPla - Enter the preference name
+2022-01-19 10:40:14,001 [main] INFO CoPla - save the preference with random name
+2022-01-19 10:40:15,211 [main] INFO CoPla - Logged out the application
+2022-01-19 11:08:26,421 [main] INFO CoPla - Password is entered
+2022-01-19 11:08:32,800 [main] INFO CoPla - Logged in the application
+2022-01-19 11:08:32,800 [main] INFO CoPla - Logged in the application
+2022-01-19 11:08:43,146 [main] INFO CoPla - Click on data screen
+2022-01-19 11:14:21,442 [main] INFO CoPla - Password is entered
+2022-01-19 11:14:28,622 [main] INFO CoPla - Logged in the application
+2022-01-19 11:14:28,623 [main] INFO CoPla - Logged in the application
+2022-01-19 11:14:39,017 [main] INFO CoPla - Click on data screen
+2022-01-19 11:15:20,000 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 11:20:50,751 [main] INFO CoPla - Password is entered
+2022-01-19 11:20:59,372 [main] INFO CoPla - Logged in the application
+2022-01-19 11:20:59,372 [main] INFO CoPla - Logged in the application
+2022-01-19 11:21:09,691 [main] INFO CoPla - Click on data screen
+2022-01-19 11:21:50,566 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:12:23,051 [main] INFO CoPla - Password is entered
+2022-01-19 12:12:28,669 [main] INFO CoPla - Logged in the application
+2022-01-19 12:12:28,669 [main] INFO CoPla - Logged in the application
+2022-01-19 12:12:39,012 [main] INFO CoPla - Click on data screen
+2022-01-19 12:13:19,934 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:15:54,969 [main] INFO CoPla - Password is entered
+2022-01-19 12:16:00,478 [main] INFO CoPla - Logged in the application
+2022-01-19 12:16:00,478 [main] INFO CoPla - Logged in the application
+2022-01-19 12:16:10,849 [main] INFO CoPla - Click on data screen
+2022-01-19 12:16:51,789 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:18:10,169 [main] INFO CoPla - Password is entered
+2022-01-19 12:18:15,702 [main] INFO CoPla - Logged in the application
+2022-01-19 12:18:15,703 [main] INFO CoPla - Logged in the application
+2022-01-19 12:18:26,090 [main] INFO CoPla - Click on data screen
+2022-01-19 12:18:31,967 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:20:12,157 [main] INFO CoPla - Password is entered
+2022-01-19 12:20:18,184 [main] INFO CoPla - Logged in the application
+2022-01-19 12:20:18,186 [main] INFO CoPla - Logged in the application
+2022-01-19 12:20:28,554 [main] INFO CoPla - Click on data screen
+2022-01-19 12:20:34,457 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:21:24,626 [main] INFO CoPla - Password is entered
+2022-01-19 12:21:30,623 [main] INFO CoPla - Logged in the application
+2022-01-19 12:21:30,624 [main] INFO CoPla - Logged in the application
+2022-01-19 12:21:40,964 [main] INFO CoPla - Click on data screen
+2022-01-19 12:21:49,864 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:24:41,938 [main] INFO CoPla - Password is entered
+2022-01-19 12:24:48,236 [main] INFO CoPla - Logged in the application
+2022-01-19 12:24:48,237 [main] INFO CoPla - Logged in the application
+2022-01-19 12:24:58,674 [main] INFO CoPla - Click on data screen
+2022-01-19 12:25:07,585 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:27:26,997 [main] INFO CoPla - Password is entered
+2022-01-19 12:27:34,086 [main] INFO CoPla - Logged in the application
+2022-01-19 12:27:34,086 [main] INFO CoPla - Logged in the application
+2022-01-19 12:27:44,421 [main] INFO CoPla - Click on data screen
+2022-01-19 12:27:53,324 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:28:54,321 [main] INFO CoPla - Password is entered
+2022-01-19 12:29:00,561 [main] INFO CoPla - Logged in the application
+2022-01-19 12:29:00,561 [main] INFO CoPla - Logged in the application
+2022-01-19 12:29:10,917 [main] INFO CoPla - Click on data screen
+2022-01-19 12:29:19,784 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 12:44:11,837 [main] INFO CoPla - Password is entered
+2022-01-19 12:44:17,365 [main] INFO CoPla - Logged in the application
+2022-01-19 12:44:17,366 [main] INFO CoPla - Logged in the application
+2022-01-19 12:44:27,785 [main] INFO CoPla - Click on data screen
+2022-01-19 12:44:36,644 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 13:37:32,288 [main] INFO CoPla - Password is entered
+2022-01-19 13:37:38,886 [main] INFO CoPla - Logged in the application
+2022-01-19 13:37:38,886 [main] INFO CoPla - Logged in the application
+2022-01-19 13:37:49,348 [main] INFO CoPla - Click on data screen
+2022-01-19 13:37:58,333 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 14:37:49,445 [main] INFO CoPla - Enter the preference name
+2022-01-19 14:37:52,463 [main] INFO CoPla - save the preference with random name
+2022-01-19 15:05:33,457 [main] INFO CoPla - Password is entered
+2022-01-19 15:05:40,150 [main] INFO CoPla - Logged in the application
+2022-01-19 15:05:40,152 [main] INFO CoPla - Logged in the application
+2022-01-19 15:05:50,557 [main] INFO CoPla - Click on data screen
+2022-01-19 15:05:59,522 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 15:08:45,537 [main] INFO CoPla - Password is entered
+2022-01-19 15:08:51,806 [main] INFO CoPla - Logged in the application
+2022-01-19 15:08:51,807 [main] INFO CoPla - Logged in the application
+2022-01-19 15:09:02,289 [main] INFO CoPla - Click on data screen
+2022-01-19 15:09:11,243 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 16:23:03,766 [main] INFO CoPla - Password is entered
+2022-01-19 16:23:10,267 [main] INFO CoPla - Logged in the application
+2022-01-19 16:23:10,267 [main] INFO CoPla - Logged in the application
+2022-01-19 16:23:20,712 [main] INFO CoPla - Click on data screen
+2022-01-19 16:23:29,672 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 16:25:53,443 [main] INFO CoPla - Password is entered
+2022-01-19 16:26:00,052 [main] INFO CoPla - Logged in the application
+2022-01-19 16:26:00,053 [main] INFO CoPla - Logged in the application
+2022-01-19 16:26:10,474 [main] INFO CoPla - Click on data screen
+2022-01-19 16:26:19,445 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 16:36:11,793 [main] INFO CoPla - Password is entered
+2022-01-19 16:36:18,263 [main] INFO CoPla - Logged in the application
+2022-01-19 16:36:18,264 [main] INFO CoPla - Logged in the application
+2022-01-19 16:36:28,638 [main] INFO CoPla - Click on data screen
+2022-01-19 16:36:37,588 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 16:45:25,632 [main] INFO CoPla - Password is entered
+2022-01-19 16:45:34,023 [main] INFO CoPla - Logged in the application
+2022-01-19 16:45:34,023 [main] INFO CoPla - Logged in the application
+2022-01-19 16:45:44,390 [main] INFO CoPla - Click on data screen
+2022-01-19 16:45:53,313 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 17:07:35,806 [main] INFO CoPla - Password is entered
+2022-01-19 17:07:44,579 [main] INFO CoPla - Logged in the application
+2022-01-19 17:07:44,580 [main] INFO CoPla - Logged in the application
+2022-01-19 17:07:55,046 [main] INFO CoPla - Click on data screen
+2022-01-19 17:08:03,991 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 17:08:04,676 [main] INFO CoPla - Click on sorting process
+2022-01-19 17:08:05,582 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-19 17:08:05,715 [main] INFO CoPla - Click on start date
+2022-01-19 17:08:06,638 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:08:06,899 [main] INFO CoPla - Select end date calendar
+2022-01-19 17:08:14,864 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:11:42,982 [main] INFO CoPla - Password is entered
+2022-01-19 17:11:49,790 [main] INFO CoPla - Logged in the application
+2022-01-19 17:11:49,791 [main] INFO CoPla - Logged in the application
+2022-01-19 17:12:00,272 [main] INFO CoPla - Click on data screen
+2022-01-19 17:12:09,148 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 17:12:09,759 [main] INFO CoPla - Click on sorting process
+2022-01-19 17:12:10,661 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-19 17:12:10,785 [main] INFO CoPla - Click on start date
+2022-01-19 17:12:11,699 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:12:11,975 [main] INFO CoPla - Select end date calendar
+2022-01-19 17:12:12,803 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:12:20,690 [main] INFO CoPla - Click on apply filter
+2022-01-19 17:54:06,349 [main] INFO CoPla - Password is entered
+2022-01-19 17:54:12,021 [main] INFO CoPla - Logged in the application
+2022-01-19 17:54:12,021 [main] INFO CoPla - Logged in the application
+2022-01-19 17:54:22,384 [main] INFO CoPla - Click on data screen
+2022-01-19 17:54:31,285 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 17:54:32,065 [main] INFO CoPla - Click on sorting process
+2022-01-19 17:54:33,033 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-19 17:54:33,156 [main] INFO CoPla - Click on start date
+2022-01-19 17:54:34,101 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:54:34,382 [main] INFO CoPla - Select end date calendar
+2022-01-19 17:54:35,239 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:54:43,142 [main] INFO CoPla - Click on apply filter
+2022-01-19 17:54:54,218 [main] INFO CoPla - Logged out the application
+2022-01-19 17:55:01,232 [main] INFO CoPla - Checking table is empty or not
+2022-01-19 17:56:26,883 [main] INFO CoPla - Password is entered
+2022-01-19 17:56:49,099 [main] INFO CoPla - Logged in the application
+2022-01-19 17:56:49,099 [main] INFO CoPla - Logged in the application
+2022-01-19 17:56:59,425 [main] INFO CoPla - Click on data screen
+2022-01-19 17:57:08,293 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 17:57:08,757 [main] INFO CoPla - Click on sorting process
+2022-01-19 17:57:09,421 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-19 17:57:09,515 [main] INFO CoPla - Click on start date
+2022-01-19 17:57:10,302 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:57:10,551 [main] INFO CoPla - Select end date calendar
+2022-01-19 17:57:11,422 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:57:19,404 [main] INFO CoPla - Click on apply filter
+2022-01-19 17:57:30,709 [main] INFO CoPla - Logged out the application
+2022-01-19 17:57:37,718 [main] INFO CoPla - Checking table is empty or not
+2022-01-19 17:59:26,773 [main] INFO CoPla - Password is entered
+2022-01-19 17:59:31,991 [main] INFO CoPla - Logged in the application
+2022-01-19 17:59:31,992 [main] INFO CoPla - Logged in the application
+2022-01-19 17:59:42,277 [main] INFO CoPla - Click on data screen
+2022-01-19 17:59:51,142 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 17:59:51,741 [main] INFO CoPla - Click on sorting process
+2022-01-19 17:59:52,685 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-19 17:59:52,813 [main] INFO CoPla - Click on start date
+2022-01-19 17:59:53,730 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:59:54,000 [main] INFO CoPla - Select end date calendar
+2022-01-19 17:59:54,807 [main] INFO CoPla - Select start date as todays date
+2022-01-19 17:59:58,791 [main] INFO CoPla - Click on apply filter
+2022-01-19 18:00:10,124 [main] INFO CoPla - Logged out the application
+2022-01-19 18:00:10,124 [main] INFO CoPla - Checking table is empty or not
+2022-01-19 18:01:22,142 [main] INFO CoPla - Password is entered
+2022-01-19 18:01:28,607 [main] INFO CoPla - Logged in the application
+2022-01-19 18:01:28,607 [main] INFO CoPla - Logged in the application
+2022-01-19 18:01:39,107 [main] INFO CoPla - Click on data screen
+2022-01-19 18:01:47,978 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 18:01:48,528 [main] INFO CoPla - Click on sorting process
+2022-01-19 18:01:49,425 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-19 18:01:49,559 [main] INFO CoPla - Click on start date
+2022-01-19 18:01:50,462 [main] INFO CoPla - Select start date as todays date
+2022-01-19 18:01:50,743 [main] INFO CoPla - Select end date calendar
+2022-01-19 18:01:51,562 [main] INFO CoPla - Select start date as todays date
+2022-01-19 18:01:55,395 [main] INFO CoPla - Click on apply filter
+2022-01-19 18:02:05,468 [main] INFO CoPla - Checking table is empty or not
+2022-01-19 18:02:06,566 [main] INFO CoPla - Logged out the application
+2022-01-19 18:08:53,296 [main] INFO CoPla - Password is entered
+2022-01-19 18:09:00,109 [main] INFO CoPla - Logged in the application
+2022-01-19 18:09:00,110 [main] INFO CoPla - Logged in the application
+2022-01-19 18:09:10,525 [main] INFO CoPla - Click on data screen
+2022-01-19 18:09:19,472 [main] INFO CoPla - Click on lada screen
+2022-01-19 18:09:24,395 [main] INFO CoPla - Click on add filter
+2022-01-19 18:09:25,647 [main] INFO CoPla - Click on filters
+2022-01-19 18:09:26,739 [main] INFO CoPla - Select sorting code
+2022-01-19 18:09:27,954 [main] INFO CoPla - Click on Operator
+2022-01-19 18:09:29,604 [main] INFO CoPla - Select Operator
+2022-01-19 18:09:50,186 [main] INFO CoPla - Enter the value
+2022-01-19 18:09:50,911 [main] INFO CoPla - Select preference checkbox
+2022-01-19 18:09:59,659 [main] INFO CoPla - Enter the preference name
+2022-01-19 18:10:05,186 [main] INFO CoPla - save the preference with random name
+2022-01-19 18:10:11,196 [main] INFO CoPla - Logged out the application
+2022-01-19 18:10:33,943 [main] INFO CoPla - Password is entered
+2022-01-19 18:10:40,028 [main] INFO CoPla - Logged in the application
+2022-01-19 18:10:40,029 [main] INFO CoPla - Logged in the application
+2022-01-19 18:10:50,310 [main] INFO CoPla - Click on data screen
+2022-01-19 18:10:58,334 [main] INFO CoPla - Click on lada screen
+2022-01-19 18:11:06,324 [main] INFO CoPla - Click on add filter
+2022-01-19 18:11:07,930 [main] INFO CoPla - Click on filters
+2022-01-19 18:11:16,897 [main] INFO CoPla - Select filter and add operators
+2022-01-19 18:11:25,647 [main] INFO CoPla - Select another filter and add operators
+2022-01-19 18:11:28,409 [main] INFO CoPla - Delete last filter
+2022-01-19 18:12:06,113 [main] INFO CoPla - Click on apply filter
+2022-01-19 18:12:06,751 [main] INFO CoPla - Select preference checkbox
+2022-01-19 18:12:15,559 [main] INFO CoPla - Enter the preference name
+2022-01-19 18:12:20,658 [main] INFO CoPla - save the preference with random name
+2022-01-19 18:12:23,255 [main] INFO CoPla - Logged out the application
+2022-01-19 18:12:47,366 [main] INFO CoPla - Password is entered
+2022-01-19 18:12:53,976 [main] INFO CoPla - Logged in the application
+2022-01-19 18:12:53,977 [main] INFO CoPla - Logged in the application
+2022-01-19 18:13:04,429 [main] INFO CoPla - Click on data screen
+2022-01-19 18:13:12,347 [main] INFO CoPla - Click on lada screen
+2022-01-19 18:13:12,642 [main] INFO CoPla - Click on add filter
+2022-01-19 18:13:16,015 [main] INFO CoPla - Click on select filter
+2022-01-19 18:13:45,635 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-19 18:13:46,465 [main] INFO CoPla - Select preference checkbox
+2022-01-19 18:13:53,669 [main] INFO CoPla - Enter the preference name
+2022-01-19 18:13:58,892 [main] INFO CoPla - save the preference with random name
+2022-01-19 18:14:04,543 [main] INFO CoPla - Logged out the application
+2022-01-19 18:14:27,734 [main] INFO CoPla - Password is entered
+2022-01-19 18:14:34,226 [main] INFO CoPla - Logged in the application
+2022-01-19 18:14:34,227 [main] INFO CoPla - Logged in the application
+2022-01-19 18:14:44,547 [main] INFO CoPla - Click on data screen
+2022-01-19 18:15:25,494 [main] INFO CoPla - Click on prio screen
+2022-01-19 18:15:26,259 [main] INFO CoPla - Click on add filter
+2022-01-19 18:15:27,061 [main] INFO CoPla - Click on select filter
+2022-01-19 18:15:50,483 [main] INFO CoPla - Add filter one
+2022-01-19 18:15:52,279 [main] INFO CoPla - Click on add filter button2
+2022-01-19 18:16:15,946 [main] INFO CoPla - Add second one
+2022-01-19 18:16:16,798 [main] INFO CoPla - Select preference checkbox
+2022-01-19 18:16:24,265 [main] INFO CoPla - Enter the preference name
+2022-01-19 18:16:31,051 [main] INFO CoPla - save the preference with random name
+2022-01-19 18:16:32,227 [main] INFO CoPla - Logged out the application
+2022-01-19 18:16:54,391 [main] INFO CoPla - Password is entered
+2022-01-19 18:17:02,472 [main] INFO CoPla - Logged in the application
+2022-01-19 18:17:02,473 [main] INFO CoPla - Logged in the application
+2022-01-19 18:17:12,777 [main] INFO CoPla - Click on data screen
+2022-01-19 18:17:21,700 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-19 18:17:22,488 [main] INFO CoPla - Click on sorting process
+2022-01-19 18:17:23,442 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-19 18:17:23,564 [main] INFO CoPla - Click on start date
+2022-01-19 18:17:24,460 [main] INFO CoPla - Select start date as todays date
+2022-01-19 18:17:24,714 [main] INFO CoPla - Select end date calendar
+2022-01-19 18:17:25,574 [main] INFO CoPla - Select start date as todays date
+2022-01-19 18:17:29,518 [main] INFO CoPla - Click on apply filter
+2022-01-19 18:17:39,549 [main] INFO CoPla - Checking table is empty or not
+2022-01-19 18:17:40,965 [main] INFO CoPla - Logged out the application
+2022-01-20 10:40:11,218 [main] INFO CoPla - Password is entered
+2022-01-20 10:40:17,825 [main] INFO CoPla - Logged in the application
+2022-01-20 10:40:17,826 [main] INFO CoPla - Logged in the application
+2022-01-20 10:40:24,064 [main] INFO CoPla - Click on calendar
+2022-01-20 10:40:27,256 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 10:45:37,282 [main] INFO CoPla - Password is entered
+2022-01-20 10:45:46,486 [main] INFO CoPla - Logged in the application
+2022-01-20 10:45:46,487 [main] INFO CoPla - Logged in the application
+2022-01-20 10:45:52,740 [main] INFO CoPla - Click on calendar
+2022-01-20 10:45:56,083 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 10:47:36,163 [main] INFO CoPla - Password is entered
+2022-01-20 10:47:44,882 [main] INFO CoPla - Logged in the application
+2022-01-20 10:47:44,884 [main] INFO CoPla - Logged in the application
+2022-01-20 10:47:51,145 [main] INFO CoPla - Click on calendar
+2022-01-20 10:47:54,430 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 11:31:28,453 [main] INFO CoPla - Password is entered
+2022-01-20 11:31:35,399 [main] INFO CoPla - Logged in the application
+2022-01-20 11:31:35,400 [main] INFO CoPla - Logged in the application
+2022-01-20 11:31:41,666 [main] INFO CoPla - Click on calendar
+2022-01-20 11:31:44,944 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 11:31:45,730 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 11:32:33,797 [main] INFO CoPla - Password is entered
+2022-01-20 11:32:39,547 [main] INFO CoPla - Logged in the application
+2022-01-20 11:32:39,547 [main] INFO CoPla - Logged in the application
+2022-01-20 11:32:45,779 [main] INFO CoPla - Click on calendar
+2022-01-20 11:32:49,058 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 11:32:49,824 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 11:33:53,281 [main] INFO CoPla - Password is entered
+2022-01-20 11:34:01,286 [main] INFO CoPla - Logged in the application
+2022-01-20 11:34:01,287 [main] INFO CoPla - Logged in the application
+2022-01-20 11:34:07,479 [main] INFO CoPla - Click on calendar
+2022-01-20 11:34:13,654 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 11:34:29,237 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 11:35:09,353 [main] INFO CoPla - Password is entered
+2022-01-20 11:35:16,872 [main] INFO CoPla - Logged in the application
+2022-01-20 11:35:16,874 [main] INFO CoPla - Logged in the application
+2022-01-20 11:35:29,082 [main] INFO CoPla - Click on calendar
+2022-01-20 11:35:35,391 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 11:35:36,161 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 11:37:42,937 [main] INFO CoPla - Password is entered
+2022-01-20 11:37:49,888 [main] INFO CoPla - Logged in the application
+2022-01-20 11:37:49,888 [main] INFO CoPla - Logged in the application
+2022-01-20 11:38:02,082 [main] INFO CoPla - Click on calendar
+2022-01-20 11:38:08,331 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 11:38:09,020 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 11:39:51,452 [main] INFO CoPla - Password is entered
+2022-01-20 11:39:57,518 [main] INFO CoPla - Logged in the application
+2022-01-20 11:39:57,519 [main] INFO CoPla - Logged in the application
+2022-01-20 11:40:09,737 [main] INFO CoPla - Click on calendar
+2022-01-20 11:40:15,994 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 11:40:16,388 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 11:41:34,459 [main] INFO CoPla - Password is entered
+2022-01-20 11:41:41,104 [main] INFO CoPla - Logged in the application
+2022-01-20 11:41:41,104 [main] INFO CoPla - Logged in the application
+2022-01-20 11:41:53,313 [main] INFO CoPla - Click on calendar
+2022-01-20 11:41:59,620 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 11:42:00,177 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 14:37:56,061 [main] INFO CoPla - Password is entered
+2022-01-20 14:38:04,298 [main] INFO CoPla - Logged in the application
+2022-01-20 14:38:04,299 [main] INFO CoPla - Logged in the application
+2022-01-20 14:38:16,561 [main] INFO CoPla - Click on calendar
+2022-01-20 14:38:23,232 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 14:38:24,056 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 14:38:27,459 [main] INFO CoPla - Select BASIC as delivery type
+2022-01-20 14:44:18,310 [main] INFO CoPla - Password is entered
+2022-01-20 14:44:27,413 [main] INFO CoPla - Logged in the application
+2022-01-20 14:44:27,415 [main] INFO CoPla - Logged in the application
+2022-01-20 14:44:39,666 [main] INFO CoPla - Click on calendar
+2022-01-20 14:44:46,059 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 14:44:46,797 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 14:44:50,119 [main] INFO CoPla - Select BASIC as delivery type
+2022-01-20 16:22:32,737 [main] INFO CoPla - Password is entered
+2022-01-20 16:22:40,064 [main] INFO CoPla - Logged in the application
+2022-01-20 16:22:40,064 [main] INFO CoPla - Logged in the application
+2022-01-20 16:22:52,264 [main] INFO CoPla - Click on calendar
+2022-01-20 16:22:58,626 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 16:22:59,366 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 16:25:05,994 [main] INFO CoPla - Password is entered
+2022-01-20 16:25:12,640 [main] INFO CoPla - Logged in the application
+2022-01-20 16:25:12,640 [main] INFO CoPla - Logged in the application
+2022-01-20 16:25:24,896 [main] INFO CoPla - Click on calendar
+2022-01-20 16:25:31,231 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 16:25:31,942 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 16:25:41,592 [main] INFO CoPla - Select BASIC as delivery type
+2022-01-20 16:28:43,823 [main] INFO CoPla - Password is entered
+2022-01-20 16:28:50,117 [main] INFO CoPla - Logged in the application
+2022-01-20 16:28:50,117 [main] INFO CoPla - Logged in the application
+2022-01-20 16:29:02,447 [main] INFO CoPla - Click on calendar
+2022-01-20 16:29:08,793 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 16:29:09,455 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 16:34:57,478 [main] INFO CoPla - Password is entered
+2022-01-20 16:35:03,402 [main] INFO CoPla - Logged in the application
+2022-01-20 16:35:03,403 [main] INFO CoPla - Logged in the application
+2022-01-20 16:35:15,689 [main] INFO CoPla - Click on calendar
+2022-01-20 16:35:22,042 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 16:35:22,710 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 16:39:03,946 [main] INFO CoPla - Password is entered
+2022-01-20 16:39:11,807 [main] INFO CoPla - Logged in the application
+2022-01-20 16:39:11,809 [main] INFO CoPla - Logged in the application
+2022-01-20 16:39:24,085 [main] INFO CoPla - Click on calendar
+2022-01-20 16:39:30,409 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 16:39:31,080 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 16:43:27,856 [main] INFO CoPla - Password is entered
+2022-01-20 16:43:34,872 [main] INFO CoPla - Logged in the application
+2022-01-20 16:43:34,872 [main] INFO CoPla - Logged in the application
+2022-01-20 16:43:47,091 [main] INFO CoPla - Click on calendar
+2022-01-20 16:43:53,400 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 16:43:54,005 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 16:44:03,872 [main] INFO CoPla - Select BASIC as delivery type
+2022-01-20 16:58:49,699 [main] INFO CoPla - Password is entered
+2022-01-20 16:58:56,342 [main] INFO CoPla - Logged in the application
+2022-01-20 16:58:56,343 [main] INFO CoPla - Logged in the application
+2022-01-20 16:59:08,547 [main] INFO CoPla - Click on calendar
+2022-01-20 16:59:14,857 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 16:59:15,579 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 16:59:26,928 [main] INFO CoPla - Select BASIC as delivery type
+2022-01-20 17:00:53,553 [main] INFO CoPla - Password is entered
+2022-01-20 17:00:59,621 [main] INFO CoPla - Logged in the application
+2022-01-20 17:00:59,622 [main] INFO CoPla - Logged in the application
+2022-01-20 17:01:11,882 [main] INFO CoPla - Click on calendar
+2022-01-20 17:01:18,173 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 17:01:18,789 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 17:01:32,469 [main] INFO CoPla - Select BASIC as delivery type
+2022-01-20 17:05:38,248 [main] INFO CoPla - Password is entered
+2022-01-20 17:05:45,005 [main] INFO CoPla - Logged in the application
+2022-01-20 17:05:45,007 [main] INFO CoPla - Logged in the application
+2022-01-20 17:05:57,319 [main] INFO CoPla - Click on calendar
+2022-01-20 17:06:03,622 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 17:06:04,330 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 17:06:31,225 [main] INFO CoPla - Select BASIC as delivery type
+2022-01-20 17:09:41,919 [main] INFO CoPla - Password is entered
+2022-01-20 17:09:48,320 [main] INFO CoPla - Logged in the application
+2022-01-20 17:09:48,321 [main] INFO CoPla - Logged in the application
+2022-01-20 17:10:00,638 [main] INFO CoPla - Click on calendar
+2022-01-20 17:10:06,980 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 17:10:07,578 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 17:10:28,670 [main] INFO CoPla - Select BASIC as delivery type
+2022-01-20 18:22:33,489 [main] INFO CoPla - Password is entered
+2022-01-20 18:22:39,703 [main] INFO CoPla - Logged in the application
+2022-01-20 18:22:39,703 [main] INFO CoPla - Logged in the application
+2022-01-20 18:22:51,930 [main] INFO CoPla - Click on calendar
+2022-01-20 18:22:58,273 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 18:22:58,881 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 18:23:01,991 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-20 18:23:36,947 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-20 18:23:52,144 [main] INFO CoPla - Click on apply filter
+2022-01-20 18:26:03,247 [main] INFO CoPla - Password is entered
+2022-01-20 18:26:08,757 [main] INFO CoPla - Logged in the application
+2022-01-20 18:26:08,757 [main] INFO CoPla - Logged in the application
+2022-01-20 18:26:21,021 [main] INFO CoPla - Click on calendar
+2022-01-20 18:26:27,313 [main] INFO CoPla - Click on calendar dropdown
+2022-01-20 18:26:27,886 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-20 18:26:30,975 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-20 18:26:58,671 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-20 18:27:12,975 [main] INFO CoPla - Click on apply filter
+2022-01-21 09:56:50,056 [main] INFO CoPla - Password is entered
+2022-01-21 09:56:56,007 [main] INFO CoPla - Logged in the application
+2022-01-21 09:56:56,007 [main] INFO CoPla - Logged in the application
+2022-01-21 09:57:08,283 [main] INFO CoPla - Click on calendar
+2022-01-21 09:57:14,485 [main] INFO CoPla - Click on calendar dropdown
+2022-01-21 09:57:34,638 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 09:57:47,743 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 09:57:57,801 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-21 09:58:21,873 [main] INFO CoPla - Click on apply filter
+2022-01-21 10:04:23,914 [main] INFO CoPla - Password is entered
+2022-01-21 10:04:29,548 [main] INFO CoPla - Logged in the application
+2022-01-21 10:04:29,549 [main] INFO CoPla - Logged in the application
+2022-01-21 10:04:41,795 [main] INFO CoPla - Click on calendar
+2022-01-21 10:04:48,066 [main] INFO CoPla - Click on calendar dropdown
+2022-01-21 10:04:48,657 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 10:04:51,816 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 10:05:19,444 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-21 10:05:33,713 [main] INFO CoPla - Click on apply filter
+2022-01-21 10:26:20,165 [main] INFO CoPla - Password is entered
+2022-01-21 10:26:26,600 [main] INFO CoPla - Logged in the application
+2022-01-21 10:26:26,601 [main] INFO CoPla - Logged in the application
+2022-01-21 10:26:38,866 [main] INFO CoPla - Click on calendar
+2022-01-21 10:26:45,165 [main] INFO CoPla - Click on calendar dropdown
+2022-01-21 10:26:45,791 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 10:26:48,936 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 10:27:16,502 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-21 10:27:30,863 [main] INFO CoPla - Click on apply filter
+2022-01-21 10:27:35,028 [main] INFO CoPla - Click on clear filter
+2022-01-21 10:27:35,808 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 10:27:39,012 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 10:36:44,776 [main] INFO CoPla - Password is entered
+2022-01-21 10:36:54,013 [main] INFO CoPla - Logged in the application
+2022-01-21 10:36:54,014 [main] INFO CoPla - Logged in the application
+2022-01-21 10:37:06,225 [main] INFO CoPla - Click on calendar
+2022-01-21 10:37:12,552 [main] INFO CoPla - Click on calendar dropdown
+2022-01-21 10:37:13,152 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 10:37:16,279 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 10:37:43,944 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-21 10:37:58,262 [main] INFO CoPla - Click on apply filter
+2022-01-21 10:38:02,463 [main] INFO CoPla - Click on clear filter
+2022-01-21 10:38:03,281 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 10:38:06,427 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 10:51:06,248 [main] INFO CoPla - Password is entered
+2022-01-21 10:51:12,452 [main] INFO CoPla - Logged in the application
+2022-01-21 10:51:12,452 [main] INFO CoPla - Logged in the application
+2022-01-21 10:51:24,704 [main] INFO CoPla - Click on calendar
+2022-01-21 10:51:30,991 [main] INFO CoPla - Click on calendar dropdown
+2022-01-21 10:51:31,606 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 10:51:34,721 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 10:52:02,336 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-21 10:52:16,665 [main] INFO CoPla - Click on apply filter
+2022-01-21 10:52:20,852 [main] INFO CoPla - Click on clear filter
+2022-01-21 10:52:21,661 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 10:52:24,878 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 11:02:05,497 [main] INFO CoPla - Password is entered
+2022-01-21 11:02:12,968 [main] INFO CoPla - Logged in the application
+2022-01-21 11:02:12,969 [main] INFO CoPla - Logged in the application
+2022-01-21 11:02:25,187 [main] INFO CoPla - Click on calendar
+2022-01-21 11:02:41,285 [main] INFO CoPla - Click on calendar dropdown
+2022-01-21 11:03:01,369 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 11:03:14,421 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 11:03:24,490 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-21 11:03:48,576 [main] INFO CoPla - Click on apply filter
+2022-01-21 11:03:58,622 [main] INFO CoPla - Click on clear filter
+2022-01-21 11:04:18,702 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 11:04:31,744 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 11:04:41,820 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-21 11:09:34,824 [main] INFO CoPla - Password is entered
+2022-01-21 11:09:49,438 [main] INFO CoPla - Logged in the application
+2022-01-21 11:09:49,439 [main] INFO CoPla - Logged in the application
+2022-01-21 11:10:01,704 [main] INFO CoPla - Click on calendar
+2022-01-21 11:10:08,048 [main] INFO CoPla - Click on calendar dropdown
+2022-01-21 11:10:08,677 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 11:10:11,804 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 11:10:39,515 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-21 11:10:53,820 [main] INFO CoPla - Click on apply filter
+2022-01-21 11:10:58,012 [main] INFO CoPla - Click on clear filter
+2022-01-21 11:10:58,786 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 11:11:01,970 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 11:11:20,707 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-21 15:14:25,659 [main] INFO CoPla - Password is entered
+2022-01-21 15:14:33,325 [main] INFO CoPla - Logged in the application
+2022-01-21 15:14:33,325 [main] INFO CoPla - Logged in the application
+2022-01-21 15:14:45,602 [main] INFO CoPla - Click on calendar
+2022-01-21 15:14:51,944 [main] INFO CoPla - Click on calendar dropdown
+2022-01-21 15:14:52,660 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 15:14:55,794 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 15:15:24,235 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-21 15:15:38,609 [main] INFO CoPla - Click on apply filter
+2022-01-21 15:15:42,878 [main] INFO CoPla - Click on clear filter
+2022-01-21 15:15:43,869 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-21 15:15:47,121 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-21 15:16:05,869 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 10:08:37,951 [main] INFO CoPla - Password is entered
+2022-01-24 10:08:44,803 [main] INFO CoPla - Logged in the application
+2022-01-24 10:08:44,803 [main] INFO CoPla - Logged in the application
+2022-01-24 10:08:57,027 [main] INFO CoPla - Click on calendar
+2022-01-24 10:09:03,339 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 10:09:04,013 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 10:09:07,211 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 10:09:35,406 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 10:09:49,808 [main] INFO CoPla - Click on apply filter
+2022-01-24 10:09:54,055 [main] INFO CoPla - Click on clear filter
+2022-01-24 10:09:54,952 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 10:09:58,178 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 10:10:16,830 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 10:15:57,706 [main] INFO CoPla - Password is entered
+2022-01-24 10:16:04,543 [main] INFO CoPla - Logged in the application
+2022-01-24 10:16:04,546 [main] INFO CoPla - Logged in the application
+2022-01-24 10:16:16,820 [main] INFO CoPla - Click on calendar
+2022-01-24 10:16:23,166 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 10:16:23,912 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 10:16:27,130 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 10:16:55,669 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 10:17:10,047 [main] INFO CoPla - Click on apply filter
+2022-01-24 10:17:11,193 [main] INFO CoPla - Click on clear filter
+2022-01-24 10:17:12,151 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 10:17:15,474 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 10:17:38,090 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 10:24:52,953 [main] INFO CoPla - Password is entered
+2022-01-24 10:24:58,758 [main] INFO CoPla - Logged in the application
+2022-01-24 10:24:58,759 [main] INFO CoPla - Logged in the application
+2022-01-24 10:25:10,938 [main] INFO CoPla - Click on calendar
+2022-01-24 10:25:17,229 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 10:25:17,806 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 10:25:20,941 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 10:25:48,636 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 10:26:02,995 [main] INFO CoPla - Click on apply filter
+2022-01-24 10:26:07,222 [main] INFO CoPla - Click on clear filter
+2022-01-24 10:26:07,879 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 10:26:11,064 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 10:26:32,621 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 10:31:12,947 [main] INFO CoPla - Password is entered
+2022-01-24 10:31:18,644 [main] INFO CoPla - Logged in the application
+2022-01-24 10:31:18,644 [main] INFO CoPla - Logged in the application
+2022-01-24 10:31:30,900 [main] INFO CoPla - Click on calendar
+2022-01-24 10:31:47,043 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 10:32:07,149 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 10:32:20,223 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 10:32:30,254 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 10:32:54,334 [main] INFO CoPla - Click on apply filter
+2022-01-24 10:33:04,395 [main] INFO CoPla - Click on clear filter
+2022-01-24 10:33:26,821 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 10:33:42,005 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 10:33:54,195 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 10:50:46,996 [main] INFO CoPla - Password is entered
+2022-01-24 10:50:50,077 [main] INFO CoPla - Logged in the application
+2022-01-24 10:50:50,078 [main] INFO CoPla - Logged in the application
+2022-01-24 11:01:23,112 [main] INFO CoPla - Password is entered
+2022-01-24 11:01:47,090 [main] INFO CoPla - Logged in the application
+2022-01-24 11:01:47,091 [main] INFO CoPla - Logged in the application
+2022-01-24 11:02:32,919 [main] INFO CoPla - Password is entered
+2022-01-24 11:02:39,521 [main] INFO CoPla - Logged in the application
+2022-01-24 11:02:39,523 [main] INFO CoPla - Logged in the application
+2022-01-24 11:02:51,721 [main] INFO CoPla - Click on calendar
+2022-01-24 11:02:58,065 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 11:02:58,779 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 11:03:01,908 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 11:03:30,101 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 11:03:44,436 [main] INFO CoPla - Click on apply filter
+2022-01-24 11:03:48,659 [main] INFO CoPla - Click on clear filter
+2022-01-24 11:03:49,631 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 11:03:52,840 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 11:04:18,481 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 11:51:33,232 [main] INFO CoPla - Password is entered
+2022-01-24 11:51:41,510 [main] INFO CoPla - Logged in the application
+2022-01-24 11:51:41,512 [main] INFO CoPla - Logged in the application
+2022-01-24 11:51:53,809 [main] INFO CoPla - Click on calendar
+2022-01-24 11:52:00,152 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 11:52:00,886 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 11:52:04,108 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 11:52:32,523 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 11:52:46,849 [main] INFO CoPla - Click on apply filter
+2022-01-24 11:52:51,095 [main] INFO CoPla - Click on clear filter
+2022-01-24 11:52:52,144 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 11:52:55,380 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 11:53:28,501 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 11:55:00,295 [main] INFO CoPla - Password is entered
+2022-01-24 11:55:07,244 [main] INFO CoPla - Logged in the application
+2022-01-24 11:55:07,245 [main] INFO CoPla - Logged in the application
+2022-01-24 11:55:19,466 [main] INFO CoPla - Click on calendar
+2022-01-24 11:55:25,749 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 11:55:26,435 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 11:55:29,626 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 11:55:57,940 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 11:56:12,427 [main] INFO CoPla - Click on apply filter
+2022-01-24 11:56:16,616 [main] INFO CoPla - Click on clear filter
+2022-01-24 11:56:17,477 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 11:56:20,652 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 11:57:01,497 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 12:00:35,807 [main] INFO CoPla - Password is entered
+2022-01-24 12:00:43,634 [main] INFO CoPla - Logged in the application
+2022-01-24 12:00:43,636 [main] INFO CoPla - Logged in the application
+2022-01-24 12:00:55,900 [main] INFO CoPla - Click on calendar
+2022-01-24 12:01:02,246 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 12:01:02,960 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 12:01:06,131 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 12:01:34,511 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 12:01:48,901 [main] INFO CoPla - Click on apply filter
+2022-01-24 12:01:53,084 [main] INFO CoPla - Click on clear filter
+2022-01-24 12:01:54,008 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 12:01:57,318 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 12:02:28,844 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 12:02:46,903 [main] INFO CoPla - Click on apply filter
+2022-01-24 12:07:17,373 [main] INFO CoPla - Password is entered
+2022-01-24 12:07:24,258 [main] INFO CoPla - Logged in the application
+2022-01-24 12:07:24,259 [main] INFO CoPla - Logged in the application
+2022-01-24 12:07:36,564 [main] INFO CoPla - Click on calendar
+2022-01-24 12:07:52,675 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 12:15:32,444 [main] INFO CoPla - Password is entered
+2022-01-24 12:15:46,939 [main] INFO CoPla - Logged in the application
+2022-01-24 12:15:46,940 [main] INFO CoPla - Logged in the application
+2022-01-24 12:15:59,161 [main] INFO CoPla - Click on calendar
+2022-01-24 12:16:05,411 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 12:16:26,035 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 12:16:39,085 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 12:16:49,145 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 12:18:05,950 [main] INFO CoPla - Password is entered
+2022-01-24 12:18:12,743 [main] INFO CoPla - Logged in the application
+2022-01-24 12:18:12,743 [main] INFO CoPla - Logged in the application
+2022-01-24 12:18:28,015 [main] INFO CoPla - Click on calendar
+2022-01-24 12:18:34,280 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 12:18:34,950 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 12:18:38,139 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 12:18:45,499 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 12:19:00,283 [main] INFO CoPla - Click on apply filter
+2022-01-24 12:19:04,587 [main] INFO CoPla - Click on clear filter
+2022-01-24 12:19:05,522 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 12:19:08,737 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 12:19:47,417 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 12:19:47,418 [main] INFO CoPla - Click on apply filter
+2022-01-24 12:19:49,102 [main] INFO CoPla - Logged out the application
+2022-01-24 12:22:20,354 [main] INFO CoPla - Password is entered
+2022-01-24 12:22:26,520 [main] INFO CoPla - Logged in the application
+2022-01-24 12:22:26,520 [main] INFO CoPla - Logged in the application
+2022-01-24 12:22:41,816 [main] INFO CoPla - Click on calendar
+2022-01-24 12:22:48,121 [main] INFO CoPla - Click on calendar dropdown
+2022-01-24 12:22:48,818 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 12:22:51,960 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 12:23:20,328 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-24 12:23:34,712 [main] INFO CoPla - Click on apply filter
+2022-01-24 12:23:39,007 [main] INFO CoPla - Click on clear filter
+2022-01-24 12:23:40,085 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-24 12:23:43,269 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-24 12:24:21,793 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-24 12:24:21,794 [main] INFO CoPla - Click on apply filter
+2022-01-24 12:24:22,956 [main] INFO CoPla - Logged out the application
+2022-01-24 12:25:12,220 [main] INFO CoPla - URL is opened
+2022-01-24 12:25:23,245 [main] INFO CoPla - Password is entered
+2022-01-24 12:25:30,234 [main] INFO CoPla - Logged in the application
+2022-01-24 12:25:30,598 [main] INFO CoPla - Logged out the application
+2022-01-24 12:25:55,675 [main] INFO CoPla - Password is entered
+2022-01-24 12:26:02,167 [main] INFO CoPla - Logged in the application
+2022-01-24 12:26:02,167 [main] INFO CoPla - Logged in the application
+2022-01-24 12:26:12,587 [main] INFO CoPla - Click on data screen
+2022-01-24 12:26:21,571 [main] INFO CoPla - Click on lada screen
+2022-01-24 12:26:21,878 [main] INFO CoPla - Click on add filter
+2022-01-24 12:26:22,239 [main] INFO CoPla - Click on filters
+2022-01-24 12:26:22,416 [main] INFO CoPla - Select sorting code
+2022-01-24 12:26:22,728 [main] INFO CoPla - Click on Operator
+2022-01-24 12:26:23,467 [main] INFO CoPla - Select Operator
+2022-01-24 12:26:39,807 [main] INFO CoPla - Enter the value
+2022-01-24 12:26:40,451 [main] INFO CoPla - Select preference checkbox
+2022-01-24 12:26:46,743 [main] INFO CoPla - Enter the preference name
+2022-01-24 12:26:51,554 [main] INFO CoPla - save the preference with random name
+2022-01-24 12:26:51,946 [main] INFO CoPla - Logged out the application
+2022-01-24 12:27:14,871 [main] INFO CoPla - Password is entered
+2022-01-24 12:27:22,569 [main] INFO CoPla - Logged in the application
+2022-01-24 12:27:22,570 [main] INFO CoPla - Logged in the application
+2022-01-24 12:27:33,082 [main] INFO CoPla - Click on data screen
+2022-01-24 12:27:41,088 [main] INFO CoPla - Click on lada screen
+2022-01-24 12:27:45,420 [main] INFO CoPla - Click on add filter
+2022-01-24 12:27:46,643 [main] INFO CoPla - Click on filters
+2022-01-24 12:27:52,269 [main] INFO CoPla - Select filter and add operators
+2022-01-24 12:27:57,348 [main] INFO CoPla - Select another filter and add operators
+2022-01-24 12:27:59,019 [main] INFO CoPla - Delete last filter
+2022-01-24 12:28:35,864 [main] INFO CoPla - Click on apply filter
+2022-01-24 12:28:36,657 [main] INFO CoPla - Select preference checkbox
+2022-01-24 12:28:42,355 [main] INFO CoPla - Enter the preference name
+2022-01-24 12:28:47,005 [main] INFO CoPla - save the preference with random name
+2022-01-24 12:28:49,712 [main] INFO CoPla - Logged out the application
+2022-01-24 12:29:14,760 [main] INFO CoPla - Password is entered
+2022-01-24 12:29:21,871 [main] INFO CoPla - Logged in the application
+2022-01-24 12:29:21,873 [main] INFO CoPla - Logged in the application
+2022-01-24 12:29:32,258 [main] INFO CoPla - Click on data screen
+2022-01-24 12:29:40,280 [main] INFO CoPla - Click on lada screen
+2022-01-24 12:29:41,362 [main] INFO CoPla - Click on add filter
+2022-01-24 12:31:21,153 [main] INFO CoPla - Click on select filter
+2022-01-24 12:31:48,595 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-24 12:31:49,326 [main] INFO CoPla - Select preference checkbox
+2022-01-24 12:31:55,124 [main] INFO CoPla - Enter the preference name
+2022-01-24 12:31:59,967 [main] INFO CoPla - save the preference with random name
+2022-01-24 12:32:02,852 [main] INFO CoPla - Logged out the application
+2022-01-24 12:32:25,947 [main] INFO CoPla - Password is entered
+2022-01-24 12:32:32,794 [main] INFO CoPla - Logged in the application
+2022-01-24 12:32:32,795 [main] INFO CoPla - Logged in the application
+2022-01-24 12:32:43,151 [main] INFO CoPla - Click on data screen
+2022-01-24 12:33:24,154 [main] INFO CoPla - Click on prio screen
+2022-01-24 12:33:34,217 [main] INFO CoPla - Click on add filter
+2022-01-24 12:33:35,194 [main] INFO CoPla - Click on select filter
+2022-01-24 12:33:57,181 [main] INFO CoPla - Add filter one
+2022-01-24 12:34:01,150 [main] INFO CoPla - Click on add filter button2
+2022-01-24 12:34:22,260 [main] INFO CoPla - Add second one
+2022-01-24 12:34:22,979 [main] INFO CoPla - Select preference checkbox
+2022-01-24 12:34:28,596 [main] INFO CoPla - Enter the preference name
+2022-01-24 12:34:35,078 [main] INFO CoPla - save the preference with random name
+2022-01-24 12:34:37,474 [main] INFO CoPla - Logged out the application
+2022-01-24 12:35:04,314 [main] INFO CoPla - Password is entered
+2022-01-24 12:35:11,931 [main] INFO CoPla - Logged in the application
+2022-01-24 12:35:11,931 [main] INFO CoPla - Logged in the application
+2022-01-24 12:35:22,335 [main] INFO CoPla - Click on data screen
+2022-01-24 12:35:31,404 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-24 12:35:32,490 [main] INFO CoPla - Click on sorting process
+2022-01-24 12:35:33,837 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-24 12:35:34,957 [main] INFO CoPla - Click on start date
+2022-01-24 12:47:24,858 [main] INFO CoPla - URL is opened
+2022-01-24 12:47:37,168 [main] INFO CoPla - Password is entered
+2022-01-24 12:47:45,694 [main] INFO CoPla - Logged in the application
+2022-01-24 12:47:46,025 [main] INFO CoPla - Logged out the application
+2022-01-24 12:48:23,204 [main] INFO CoPla - Password is entered
+2022-01-24 12:48:53,409 [main] INFO CoPla - Logged in the application
+2022-01-24 12:48:53,410 [main] INFO CoPla - Logged in the application
+2022-01-24 12:49:51,785 [main] INFO CoPla - URL is opened
+2022-01-24 12:50:04,088 [main] INFO CoPla - Password is entered
+2022-01-24 12:50:10,490 [main] INFO CoPla - Logged in the application
+2022-01-24 12:50:10,876 [main] INFO CoPla - Logged out the application
+2022-01-24 12:50:39,368 [main] INFO CoPla - Password is entered
+2022-01-24 12:50:46,443 [main] INFO CoPla - Logged in the application
+2022-01-24 12:50:46,443 [main] INFO CoPla - Logged in the application
+2022-01-24 12:50:56,893 [main] INFO CoPla - Click on data screen
+2022-01-24 12:51:37,892 [main] INFO CoPla - Click on lada screen
+2022-01-24 12:51:39,226 [main] INFO CoPla - Click on add filter
+2022-01-24 12:51:43,365 [main] INFO CoPla - Click on select filter
+2022-01-24 12:52:10,954 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-24 12:52:11,757 [main] INFO CoPla - Select preference checkbox
+2022-01-24 12:52:17,639 [main] INFO CoPla - Enter the preference name
+2022-01-24 12:52:22,666 [main] INFO CoPla - save the preference with random name
+2022-01-24 12:52:25,955 [main] INFO CoPla - Logged out the application
+2022-01-24 12:52:49,921 [main] INFO CoPla - Password is entered
+2022-01-24 12:52:56,451 [main] INFO CoPla - Logged in the application
+2022-01-24 12:52:56,455 [main] INFO CoPla - Logged in the application
+2022-01-24 12:53:07,140 [main] INFO CoPla - Click on data screen
+2022-01-24 12:53:48,117 [main] INFO CoPla - Click on prio screen
+2022-01-24 12:53:49,276 [main] INFO CoPla - Click on add filter
+2022-01-24 12:53:50,162 [main] INFO CoPla - Click on select filter
+2022-01-24 12:54:13,014 [main] INFO CoPla - Add filter one
+2022-01-24 12:54:14,492 [main] INFO CoPla - Click on add filter button2
+2022-01-24 12:54:36,439 [main] INFO CoPla - Add second one
+2022-01-24 12:54:37,256 [main] INFO CoPla - Select preference checkbox
+2022-01-24 12:54:43,729 [main] INFO CoPla - Enter the preference name
+2022-01-24 12:54:50,251 [main] INFO CoPla - save the preference with random name
+2022-01-24 12:54:51,565 [main] INFO CoPla - Logged out the application
+2022-01-24 12:57:03,782 [main] INFO CoPla - Password is entered
+2022-01-24 12:57:10,879 [main] INFO CoPla - Logged in the application
+2022-01-24 12:57:10,880 [main] INFO CoPla - Logged in the application
+2022-01-24 12:57:21,344 [main] INFO CoPla - Click on data screen
+2022-01-24 12:57:30,307 [main] INFO CoPla - Click on lada screen
+2022-01-24 12:57:34,333 [main] INFO CoPla - Click on add filter
+2022-01-24 12:57:35,303 [main] INFO CoPla - Click on filters
+2022-01-24 12:57:36,029 [main] INFO CoPla - Select sorting code
+2022-01-24 12:57:36,884 [main] INFO CoPla - Click on Operator
+2022-01-24 12:57:38,219 [main] INFO CoPla - Select Operator
+2022-01-24 12:57:57,758 [main] INFO CoPla - Enter the value
+2022-01-24 12:57:58,537 [main] INFO CoPla - Select preference checkbox
+2022-01-24 12:58:04,700 [main] INFO CoPla - Enter the preference name
+2022-01-24 12:58:09,663 [main] INFO CoPla - save the preference with random name
+2022-01-24 12:58:10,044 [main] INFO CoPla - Logged out the application
+2022-01-24 12:58:37,792 [main] INFO CoPla - Password is entered
+2022-01-24 12:58:45,004 [main] INFO CoPla - Logged in the application
+2022-01-24 12:58:45,006 [main] INFO CoPla - Logged in the application
+2022-01-24 12:58:55,455 [main] INFO CoPla - Click on data screen
+2022-01-24 12:59:04,383 [main] INFO CoPla - Click on lada screen
+2022-01-24 12:59:09,668 [main] INFO CoPla - Click on add filter
+2022-01-24 12:59:10,623 [main] INFO CoPla - Click on filters
+2022-01-24 12:59:16,279 [main] INFO CoPla - Select filter and add operators
+2022-01-24 12:59:21,454 [main] INFO CoPla - Select another filter and add operators
+2022-01-24 12:59:23,261 [main] INFO CoPla - Delete last filter
+2022-01-24 13:00:00,208 [main] INFO CoPla - Click on apply filter
+2022-01-24 13:00:00,838 [main] INFO CoPla - Select preference checkbox
+2022-01-24 13:00:06,632 [main] INFO CoPla - Enter the preference name
+2022-01-24 13:00:11,247 [main] INFO CoPla - save the preference with random name
+2022-01-24 13:00:12,954 [main] INFO CoPla - Logged out the application
+2022-01-24 13:00:36,455 [main] INFO CoPla - Password is entered
+2022-01-24 13:00:43,607 [main] INFO CoPla - Logged in the application
+2022-01-24 13:00:43,607 [main] INFO CoPla - Logged in the application
+2022-01-24 13:00:53,859 [main] INFO CoPla - Click on data screen
+2022-01-24 13:01:02,737 [main] INFO CoPla - Click on lada screen
+2022-01-24 13:01:03,020 [main] INFO CoPla - Click on add filter
+2022-01-24 13:01:06,344 [main] INFO CoPla - Click on select filter
+2022-01-24 13:01:21,731 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-24 13:01:21,923 [main] INFO CoPla - Select preference checkbox
+2022-01-24 13:01:22,480 [main] INFO CoPla - Enter the preference name
+2022-01-24 13:01:25,512 [main] INFO CoPla - save the preference with random name
+2022-01-24 13:01:26,754 [main] INFO CoPla - Logged out the application
+2022-01-24 13:01:48,418 [main] INFO CoPla - Password is entered
+2022-01-24 13:01:54,159 [main] INFO CoPla - Logged in the application
+2022-01-24 13:01:54,160 [main] INFO CoPla - Logged in the application
+2022-01-24 13:02:04,393 [main] INFO CoPla - Click on data screen
+2022-01-24 16:58:53,445 [main] INFO CoPla - Click on data screen
+2022-01-24 17:12:12,930 [main] INFO CoPla - Click on prio screen
+2022-01-24 17:12:12,956 [main] INFO CoPla - Click on add filter
+2022-01-24 21:09:33,764 [main] INFO CoPla - Click on lada screen
+2022-01-24 21:09:33,800 [main] INFO CoPla - Click on add filter
+2022-01-24 21:22:13,319 [main] INFO CoPla - Click on select filter
+2022-01-25 09:48:44,809 [main] INFO CoPla - Add filter one
+2022-01-25 09:48:45,493 [main] INFO CoPla - Click on add filter button2
+2022-01-25 09:48:45,761 [main] INFO CoPla - Add second one
+2022-01-25 09:48:45,952 [main] INFO CoPla - Select preference checkbox
+2022-01-25 09:48:47,538 [main] INFO CoPla - Click on select filter
+2022-01-28 16:32:05,448 [main] INFO CoPla - Password is entered
+2022-01-28 16:32:12,305 [main] INFO CoPla - Logged in the application
+2022-01-28 16:32:12,306 [main] INFO CoPla - Logged in the application
+2022-01-28 16:32:22,906 [main] INFO CoPla - Click on data screen
+2022-01-28 16:32:31,942 [main] INFO CoPla - Click on lada screen
+2022-01-28 16:32:35,618 [main] INFO CoPla - Click on add filter
+2022-01-28 16:34:25,841 [main] INFO CoPla - Password is entered
+2022-01-28 16:34:32,807 [main] INFO CoPla - Logged in the application
+2022-01-28 16:34:32,807 [main] INFO CoPla - Logged in the application
+2022-01-28 16:34:43,110 [main] INFO CoPla - Click on data screen
+2022-01-28 16:34:52,112 [main] INFO CoPla - Click on lada screen
+2022-01-28 16:34:54,343 [main] INFO CoPla - Click on add filter
+2022-01-28 16:40:05,436 [main] INFO CoPla - Password is entered
+2022-01-28 16:40:11,135 [main] INFO CoPla - Logged in the application
+2022-01-28 16:40:11,135 [main] INFO CoPla - Logged in the application
+2022-01-28 16:40:21,606 [main] INFO CoPla - Click on data screen
+2022-01-28 16:40:30,612 [main] INFO CoPla - Click on lada screen
+2022-01-28 16:40:44,720 [main] INFO CoPla - Click on add filter
+2022-01-28 16:43:38,851 [main] INFO CoPla - Password is entered
+2022-01-28 16:43:45,527 [main] INFO CoPla - Logged in the application
+2022-01-28 16:43:45,528 [main] INFO CoPla - Logged in the application
+2022-01-28 16:43:56,002 [main] INFO CoPla - Click on data screen
+2022-01-28 16:44:04,997 [main] INFO CoPla - Click on lada screen
+2022-01-28 16:44:19,052 [main] INFO CoPla - Click on add filter
+2022-01-28 16:47:58,213 [main] INFO CoPla - Password is entered
+2022-01-28 16:48:04,300 [main] INFO CoPla - Logged in the application
+2022-01-28 16:48:04,302 [main] INFO CoPla - Logged in the application
+2022-01-28 16:48:14,830 [main] INFO CoPla - Click on data screen
+2022-01-28 16:48:23,831 [main] INFO CoPla - Click on lada screen
+2022-01-28 16:48:29,136 [main] INFO CoPla - Click on add filter
+2022-01-28 17:30:24,290 [main] INFO CoPla - Password is entered
+2022-01-28 17:30:30,719 [main] INFO CoPla - Logged in the application
+2022-01-28 17:30:30,720 [main] INFO CoPla - Logged in the application
+2022-01-28 17:30:41,217 [main] INFO CoPla - Click on data screen
+2022-01-28 17:30:50,218 [main] INFO CoPla - Click on lada screen
+2022-01-28 17:30:55,582 [main] INFO CoPla - Click on add filter
+2022-01-28 17:41:58,763 [main] INFO CoPla - Password is entered
+2022-01-28 17:42:05,611 [main] INFO CoPla - Logged in the application
+2022-01-28 17:42:05,613 [main] INFO CoPla - Logged in the application
+2022-01-28 17:42:16,151 [main] INFO CoPla - Click on data screen
+2022-01-28 17:42:25,151 [main] INFO CoPla - Click on lada screen
+2022-01-28 17:42:30,582 [main] INFO CoPla - Click on add filter
+2022-01-28 17:42:31,674 [main] INFO CoPla - Click on filters
+2022-01-28 17:44:18,578 [main] INFO CoPla - Select filter and add operators
+2022-01-28 17:44:30,798 [main] INFO CoPla - Select another filter and add operators
+2022-01-28 17:44:38,302 [main] INFO CoPla - Password is entered
+2022-01-28 17:44:43,007 [main] INFO CoPla - Delete last filter
+2022-01-28 17:44:45,478 [main] INFO CoPla - Logged in the application
+2022-01-28 17:44:45,478 [main] INFO CoPla - Logged in the application
+2022-01-28 17:44:55,960 [main] INFO CoPla - Click on data screen
+2022-01-28 17:45:04,965 [main] INFO CoPla - Click on lada screen
+2022-01-28 17:45:09,925 [main] INFO CoPla - Click on add filter
+2022-01-28 17:45:10,915 [main] INFO CoPla - Click on filters
+2022-01-28 17:45:22,658 [main] INFO CoPla - Select filter and add operators
+2022-01-28 17:45:30,223 [main] INFO CoPla - Click on apply filter
+2022-01-28 17:45:42,443 [main] INFO CoPla - Select preference checkbox
+2022-01-28 17:45:48,208 [main] INFO CoPla - Select another filter and add operators
+2022-01-28 17:45:54,659 [main] INFO CoPla - Enter the preference name
+2022-01-28 17:46:09,856 [main] INFO CoPla - save the preference with random name
+2022-01-28 17:47:18,413 [main] INFO CoPla - Password is entered
+2022-01-28 17:47:24,917 [main] INFO CoPla - Logged in the application
+2022-01-28 17:47:24,918 [main] INFO CoPla - Logged in the application
+2022-01-28 17:47:35,540 [main] INFO CoPla - Click on data screen
+2022-01-28 17:47:44,542 [main] INFO CoPla - Click on lada screen
+2022-01-28 17:47:49,500 [main] INFO CoPla - Click on add filter
+2022-01-28 17:47:50,776 [main] INFO CoPla - Click on filters
+2022-01-28 17:48:02,614 [main] INFO CoPla - Select filter and add operators
+2022-01-28 17:50:06,874 [main] INFO CoPla - Password is entered
+2022-01-28 17:50:13,343 [main] INFO CoPla - Logged in the application
+2022-01-28 17:50:13,344 [main] INFO CoPla - Logged in the application
+2022-01-28 17:50:23,824 [main] INFO CoPla - Click on data screen
+2022-01-28 17:50:32,808 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-01-28 17:50:33,272 [main] INFO CoPla - Click on sorting process
+2022-01-28 17:50:34,445 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-01-28 17:50:34,527 [main] INFO CoPla - Click on start date
+2022-01-28 17:50:35,176 [main] INFO CoPla - Select start date as todays date
+2022-01-28 17:50:35,398 [main] INFO CoPla - Select end date calendar
+2022-01-28 17:50:36,023 [main] INFO CoPla - Select start date as todays date
+2022-01-28 17:50:39,759 [main] INFO CoPla - Click on apply filter
+2022-01-28 17:50:49,830 [main] INFO CoPla - Checking table is empty or not
+2022-01-28 17:50:51,153 [main] INFO CoPla - Logged out the application
+2022-01-28 17:51:16,195 [main] INFO CoPla - Password is entered
+2022-01-28 17:51:22,814 [main] INFO CoPla - Logged in the application
+2022-01-28 17:51:22,816 [main] INFO CoPla - Logged in the application
+2022-01-28 17:51:38,092 [main] INFO CoPla - Click on calendar
+2022-01-28 17:51:44,428 [main] INFO CoPla - Click on calendar dropdown
+2022-01-28 17:51:45,086 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-28 17:51:48,250 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-28 17:52:16,562 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-01-28 17:52:30,978 [main] INFO CoPla - Click on apply filter
+2022-01-28 17:52:35,194 [main] INFO CoPla - Click on clear filter
+2022-01-28 17:52:36,115 [main] INFO CoPla - Select month and year from the  dropdown
+2022-01-28 17:52:39,403 [main] INFO CoPla - Click on delivery type dropdown
+2022-01-28 17:53:17,934 [main] INFO CoPla - Early delivery type filter is selected
+2022-01-28 17:53:17,934 [main] INFO CoPla - Click on apply filter
+2022-01-28 17:53:19,031 [main] INFO CoPla - Logged out the application
+2022-01-28 17:56:24,786 [main] INFO CoPla - Password is entered
+2022-01-28 17:56:31,978 [main] INFO CoPla - Logged in the application
+2022-01-28 17:56:31,979 [main] INFO CoPla - Logged in the application
+2022-01-28 17:56:42,441 [main] INFO CoPla - Click on data screen
+2022-01-28 17:56:51,429 [main] INFO CoPla - Click on lada screen
+2022-01-28 17:56:56,738 [main] INFO CoPla - Click on add filter
+2022-01-28 17:56:57,885 [main] INFO CoPla - Click on filters
+2022-01-28 17:57:11,705 [main] INFO CoPla - Select filter and add operators
+2022-01-31 18:16:41,278 [main] INFO CoPla - Password is entered
+2022-01-31 18:16:47,367 [main] INFO CoPla - Logged in the application
+2022-01-31 18:16:47,367 [main] INFO CoPla - Logged in the application
+2022-01-31 18:16:57,817 [main] INFO CoPla - Click on data screen
+2022-01-31 18:17:06,853 [main] INFO CoPla - Click on lada screen
+2022-01-31 18:17:07,213 [main] INFO CoPla - Click on add filter
+2022-01-31 18:17:10,666 [main] INFO CoPla - Click on filters
+2022-01-31 18:17:11,937 [main] INFO CoPla - Select sorting code
+2022-01-31 18:17:12,844 [main] INFO CoPla - Click on Operator
+2022-01-31 18:17:14,379 [main] INFO CoPla - Select Operator
+2022-01-31 18:17:34,386 [main] INFO CoPla - Enter the value
+2022-01-31 18:17:35,153 [main] INFO CoPla - Select preference checkbox
+2022-01-31 18:17:41,945 [main] INFO CoPla - Enter the preference name
+2022-01-31 18:17:47,083 [main] INFO CoPla - save the preference with random name
+2022-01-31 18:17:51,395 [main] INFO CoPla - Logged out the application
+2022-01-31 18:18:21,379 [main] INFO CoPla - Password is entered
+2022-01-31 18:18:27,649 [main] INFO CoPla - Logged in the application
+2022-01-31 18:18:27,651 [main] INFO CoPla - Logged in the application
+2022-01-31 18:18:38,019 [main] INFO CoPla - Click on data screen
+2022-01-31 18:18:47,007 [main] INFO CoPla - Click on lada screen
+2022-01-31 18:19:01,148 [main] INFO CoPla - Click on add filter
+2022-01-31 18:21:37,377 [main] INFO CoPla - Password is entered
+2022-01-31 18:21:57,793 [main] INFO CoPla - Logged in the application
+2022-01-31 18:21:57,794 [main] INFO CoPla - Logged in the application
+2022-01-31 18:22:08,312 [main] INFO CoPla - Click on data screen
+2022-01-31 18:22:17,315 [main] INFO CoPla - Click on lada screen
+2022-01-31 18:22:17,658 [main] INFO CoPla - Click on add filter
+2022-01-31 18:22:21,560 [main] INFO CoPla - Click on select filter
+2022-01-31 18:22:50,091 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-01-31 18:22:50,926 [main] INFO CoPla - Select preference checkbox
+2022-01-31 18:22:57,776 [main] INFO CoPla - Enter the preference name
+2022-01-31 18:23:02,762 [main] INFO CoPla - save the preference with random name
+2022-01-31 18:23:06,440 [main] INFO CoPla - Logged out the application
+2022-01-31 18:23:32,009 [main] INFO CoPla - Password is entered
+2022-01-31 18:23:38,501 [main] INFO CoPla - Logged in the application
+2022-01-31 18:23:38,502 [main] INFO CoPla - Logged in the application
+2022-01-31 18:23:48,908 [main] INFO CoPla - Click on data screen
+2022-01-31 18:23:57,871 [main] INFO CoPla - Click on prio screen
+2022-01-31 18:23:59,075 [main] INFO CoPla - Click on add filter
+2022-01-31 18:24:00,166 [main] INFO CoPla - Click on select filter
+2022-01-31 18:24:22,710 [main] INFO CoPla - Add filter one
+2022-01-31 18:24:24,254 [main] INFO CoPla - Click on add filter button2
+2022-01-31 18:24:46,292 [main] INFO CoPla - Add second one
+2022-01-31 18:24:47,705 [main] INFO CoPla - Select preference checkbox
+2022-01-31 18:24:54,252 [main] INFO CoPla - Enter the preference name
+2022-01-31 18:25:00,927 [main] INFO CoPla - save the preference with random name
+2022-01-31 18:25:10,015 [main] INFO CoPla - Logged out the application
+2022-01-31 18:26:58,292 [main] INFO CoPla - Password is entered
+2022-01-31 18:27:04,780 [main] INFO CoPla - Logged in the application
+2022-01-31 18:27:04,780 [main] INFO CoPla - Logged in the application
+2022-01-31 18:27:15,122 [main] INFO CoPla - Click on data screen
+2022-01-31 18:27:24,132 [main] INFO CoPla - Click on lada screen
+2022-01-31 18:27:38,236 [main] INFO CoPla - Click on add filter
+2022-01-31 18:32:33,493 [main] INFO CoPla - Click on filters
+2022-01-31 18:32:45,758 [main] INFO CoPla - Select filter and add operators
+2022-01-31 18:32:57,986 [main] INFO CoPla - Select another filter and add operators
+2022-01-31 18:33:10,195 [main] INFO CoPla - Delete last filter
+2022-01-31 18:33:57,405 [main] INFO CoPla - Click on apply filter
+2022-01-31 18:34:09,603 [main] INFO CoPla - Select preference checkbox
+2022-01-31 18:34:21,804 [main] INFO CoPla - Enter the preference name
+2022-01-31 18:34:37,007 [main] INFO CoPla - save the preference with random name
+2022-01-31 18:34:49,180 [main] INFO CoPla - Logged out the application
+2022-02-01 16:08:05,550 [main] INFO CoPla - Password is entered
+2022-02-01 16:08:11,994 [main] INFO CoPla - Logged in the application
+2022-02-01 16:08:11,994 [main] INFO CoPla - Logged in the application
+2022-02-01 16:08:22,345 [main] INFO CoPla - Click on data screen
+2022-02-01 16:08:31,288 [main] INFO CoPla - Click on lada screen
+2022-02-01 16:08:45,438 [main] INFO CoPla - Click on add filter
+2022-02-01 16:58:16,359 [main] INFO CoPla - Password is entered
+2022-02-01 16:58:26,793 [main] INFO CoPla - Logged in the application
+2022-02-01 16:58:26,795 [main] INFO CoPla - Logged in the application
+2022-02-01 16:58:37,276 [main] INFO CoPla - Click on data screen
+2022-02-01 16:58:46,236 [main] INFO CoPla - Click on lada screen
+2022-02-01 16:58:51,882 [main] INFO CoPla - Click on add filter
+2022-02-01 16:58:53,089 [main] INFO CoPla - Click on filters
+2022-02-01 17:06:03,445 [main] INFO CoPla - Password is entered
+2022-02-01 17:06:11,350 [main] INFO CoPla - Logged in the application
+2022-02-01 17:06:11,351 [main] INFO CoPla - Logged in the application
+2022-02-01 17:06:21,841 [main] INFO CoPla - Click on data screen
+2022-02-01 17:06:30,849 [main] INFO CoPla - Click on lada screen
+2022-02-01 17:06:36,124 [main] INFO CoPla - Click on add filter
+2022-02-01 17:06:37,210 [main] INFO CoPla - Click on filters
+2022-02-01 17:06:43,396 [main] INFO CoPla - Select filter and add operators
+2022-02-01 17:06:49,497 [main] INFO CoPla - Select another filter and add operators
+2022-02-01 17:06:51,470 [main] INFO CoPla - Delete last filter
+2022-02-01 17:09:28,887 [main] INFO CoPla - Password is entered
+2022-02-01 17:09:37,347 [main] INFO CoPla - Logged in the application
+2022-02-01 17:09:37,348 [main] INFO CoPla - Logged in the application
+2022-02-01 17:09:47,749 [main] INFO CoPla - Click on data screen
+2022-02-01 17:09:56,742 [main] INFO CoPla - Click on lada screen
+2022-02-01 17:10:02,014 [main] INFO CoPla - Click on add filter
+2022-02-01 17:10:03,116 [main] INFO CoPla - Click on filters
+2022-02-01 17:10:09,178 [main] INFO CoPla - Select filter and add operators
+2022-02-01 17:10:14,832 [main] INFO CoPla - Select another filter and add operators
+2022-02-01 17:10:16,592 [main] INFO CoPla - Delete last filter
+2022-02-01 17:12:12,496 [main] INFO CoPla - Password is entered
+2022-02-01 17:12:24,389 [main] INFO CoPla - Logged in the application
+2022-02-01 17:12:24,390 [main] INFO CoPla - Logged in the application
+2022-02-01 17:12:34,824 [main] INFO CoPla - Click on data screen
+2022-02-01 17:12:43,824 [main] INFO CoPla - Click on lada screen
+2022-02-01 17:12:49,122 [main] INFO CoPla - Click on add filter
+2022-02-01 17:12:50,219 [main] INFO CoPla - Click on filters
+2022-02-01 17:12:56,283 [main] INFO CoPla - Select filter and add operators
+2022-02-01 17:13:02,150 [main] INFO CoPla - Select another filter and add operators
+2022-02-01 17:13:04,022 [main] INFO CoPla - Delete last filter
+2022-02-01 17:13:41,048 [main] INFO CoPla - Click on apply filter
+2022-02-01 17:13:41,794 [main] INFO CoPla - Select preference checkbox
+2022-02-01 17:13:48,552 [main] INFO CoPla - Enter the preference name
+2022-02-01 17:13:53,250 [main] INFO CoPla - save the preference with random name
+2022-02-01 17:13:55,152 [main] INFO CoPla - Logged out the application
+2022-02-01 17:14:51,664 [main] INFO CoPla - URL is opened
+2022-02-01 17:15:04,237 [main] INFO CoPla - Password is entered
+2022-02-01 17:15:12,426 [main] INFO CoPla - Logged in the application
+2022-02-01 17:15:12,834 [main] INFO CoPla - Logged out the application
+2022-02-01 17:15:39,296 [main] INFO CoPla - Password is entered
+2022-02-01 17:15:48,344 [main] INFO CoPla - Logged in the application
+2022-02-01 17:15:48,345 [main] INFO CoPla - Logged in the application
+2022-02-01 17:15:54,638 [main] INFO CoPla - Click on calendar
+2022-02-01 17:15:57,879 [main] INFO CoPla - Click on deliverycalendar dropdown
+2022-02-01 17:16:01,096 [main] INFO CoPla - click on year
+2022-02-01 17:16:01,147 [main] INFO CoPla - Select an year 2022
+2022-02-01 17:16:09,451 [main] INFO CoPla - Clik on calendar button
+2022-02-01 17:16:27,350 [main] INFO CoPla - Select a day from calendar
+2022-02-01 17:16:34,636 [main] INFO CoPla - Select another from calendar
+2022-02-01 17:16:38,841 [main] INFO CoPla - Click on save
+2022-02-01 17:16:39,064 [main] INFO CoPla - Day is reseted to old date
+2022-02-01 17:16:39,312 [main] INFO CoPla - Logged out the application
+2022-02-01 17:17:06,607 [main] INFO CoPla - Password is entered
+2022-02-01 17:17:14,065 [main] INFO CoPla - Logged in the application
+2022-02-01 17:17:14,065 [main] INFO CoPla - Logged in the application
+2022-02-01 17:17:24,432 [main] INFO CoPla - Click on data screen
+2022-02-01 17:17:33,401 [main] INFO CoPla - Click on lada screen
+2022-02-01 17:17:36,016 [main] INFO CoPla - Click on add filter
+2022-02-01 17:17:40,208 [main] INFO CoPla - Click on filters
+2022-02-01 17:17:40,998 [main] INFO CoPla - Select sorting code
+2022-02-01 17:17:41,917 [main] INFO CoPla - Click on Operator
+2022-02-01 17:17:43,390 [main] INFO CoPla - Select Operator
+2022-02-01 17:18:03,600 [main] INFO CoPla - Enter the value
+2022-02-01 17:18:04,313 [main] INFO CoPla - Select preference checkbox
+2022-02-01 17:18:11,144 [main] INFO CoPla - Enter the preference name
+2022-02-01 17:18:16,000 [main] INFO CoPla - save the preference with random name
+2022-02-01 17:18:20,317 [main] INFO CoPla - Logged out the application
+2022-02-01 17:18:48,714 [main] INFO CoPla - Password is entered
+2022-02-01 17:18:56,889 [main] INFO CoPla - Logged in the application
+2022-02-01 17:18:56,889 [main] INFO CoPla - Logged in the application
+2022-02-01 17:19:07,254 [main] INFO CoPla - Click on data screen
+2022-02-01 17:19:16,233 [main] INFO CoPla - Click on lada screen
+2022-02-01 17:19:21,538 [main] INFO CoPla - Click on add filter
+2022-02-01 17:19:22,643 [main] INFO CoPla - Click on filters
+2022-02-01 17:19:28,761 [main] INFO CoPla - Select filter and add operators
+2022-02-01 17:19:34,316 [main] INFO CoPla - Select another filter and add operators
+2022-02-01 17:19:36,248 [main] INFO CoPla - Delete last filter
+2022-02-01 17:20:13,193 [main] INFO CoPla - Click on apply filter
+2022-02-01 17:20:13,909 [main] INFO CoPla - Select preference checkbox
+2022-02-01 17:20:20,699 [main] INFO CoPla - Enter the preference name
+2022-02-01 17:20:25,479 [main] INFO CoPla - save the preference with random name
+2022-02-01 17:20:27,935 [main] INFO CoPla - Logged out the application
+2022-02-01 17:20:55,235 [main] INFO CoPla - Password is entered
+2022-02-01 17:21:04,128 [main] INFO CoPla - Logged in the application
+2022-02-01 17:21:04,128 [main] INFO CoPla - Logged in the application
+2022-02-01 17:21:14,425 [main] INFO CoPla - Click on data screen
+2022-02-01 17:21:23,360 [main] INFO CoPla - Click on lada screen
+2022-02-01 17:21:24,755 [main] INFO CoPla - Click on add filter
+2022-02-01 17:21:28,926 [main] INFO CoPla - Click on select filter
+2022-02-01 17:21:57,193 [main] INFO CoPla - Select product code filters and clicking apply filters 
+2022-02-01 17:21:58,060 [main] INFO CoPla - Select preference checkbox
+2022-02-01 17:22:04,945 [main] INFO CoPla - Enter the preference name
+2022-02-01 17:22:09,859 [main] INFO CoPla - save the preference with random name
+2022-02-01 17:22:14,110 [main] INFO CoPla - Logged out the application
+2022-02-01 17:22:41,676 [main] INFO CoPla - Password is entered
+2022-02-01 17:22:50,450 [main] INFO CoPla - Logged in the application
+2022-02-01 17:22:50,450 [main] INFO CoPla - Logged in the application
+2022-02-01 17:23:00,745 [main] INFO CoPla - Click on data screen
+2022-02-01 17:23:09,685 [main] INFO CoPla - Click on prio screen
+2022-02-01 17:23:21,230 [main] INFO CoPla - Click on add filter
+2022-02-01 17:23:22,268 [main] INFO CoPla - Click on select filter
+2022-02-01 17:23:44,846 [main] INFO CoPla - Add filter one
+2022-02-01 17:23:46,330 [main] INFO CoPla - Click on add filter button2
+2022-02-01 17:24:08,287 [main] INFO CoPla - Add second one
+2022-02-01 17:24:08,975 [main] INFO CoPla - Select preference checkbox
+2022-02-01 17:24:16,045 [main] INFO CoPla - Enter the preference name
+2022-02-01 17:24:22,693 [main] INFO CoPla - save the preference with random name
+2022-02-01 17:24:23,047 [main] INFO CoPla - Logged out the application
+2022-02-01 17:24:52,923 [main] INFO CoPla - Password is entered
+2022-02-01 17:24:59,985 [main] INFO CoPla - Logged in the application
+2022-02-01 17:24:59,985 [main] INFO CoPla - Logged in the application
+2022-02-01 17:25:10,405 [main] INFO CoPla - Click on data screen
+2022-02-01 17:25:24,345 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-01 17:25:24,896 [main] INFO CoPla - Click on sorting process
+2022-02-01 17:25:25,542 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-01 17:25:25,656 [main] INFO CoPla - Click on start date
+2022-02-01 17:25:26,362 [main] INFO CoPla - Select start date as todays date
+2022-02-01 17:25:26,645 [main] INFO CoPla - Select end date calendar
+2022-02-01 17:25:27,268 [main] INFO CoPla - Select start date as todays date
+2022-02-01 17:25:31,025 [main] INFO CoPla - Click on apply filter
+2022-02-01 17:25:59,122 [main] INFO CoPla - Password is entered
+2022-02-01 17:26:07,380 [main] INFO CoPla - Logged in the application
+2022-02-01 17:26:07,381 [main] INFO CoPla - Logged in the application
+2022-02-01 17:26:22,683 [main] INFO CoPla - Click on calendar
+2022-02-01 17:26:29,043 [main] INFO CoPla - Click on calendar dropdown
+2022-02-01 17:26:29,745 [main] INFO CoPla - Select month and year from the  dropdown
+2022-02-01 17:26:32,912 [main] INFO CoPla - Click on delivery type dropdown
+2022-02-01 17:27:01,779 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-02-01 17:27:16,534 [main] INFO CoPla - Click on apply filter
+2022-02-01 17:27:17,748 [main] INFO CoPla - Click on clear filter
+2022-02-01 17:27:19,298 [main] INFO CoPla - Select month and year from the  dropdown
+2022-02-01 17:27:23,422 [main] INFO CoPla - Click on delivery type dropdown
+2022-02-01 17:27:35,144 [main] INFO CoPla - Early delivery type filter is selected
+2022-02-01 17:27:35,145 [main] INFO CoPla - Click on apply filter
+2022-02-01 17:27:36,686 [main] INFO CoPla - Logged out the application
+2022-02-01 17:29:00,208 [main] INFO CoPla - Password is entered
+2022-02-01 17:29:09,768 [main] INFO CoPla - Logged in the application
+2022-02-01 17:29:09,769 [main] INFO CoPla - Logged in the application
+2022-02-01 17:29:25,041 [main] INFO CoPla - Click on calendar
+2022-02-01 17:29:31,375 [main] INFO CoPla - Click on calendar dropdown
+2022-02-01 17:29:32,040 [main] INFO CoPla - Select month and year from the  dropdown
+2022-02-01 17:29:35,244 [main] INFO CoPla - Click on delivery type dropdown
+2022-02-01 17:30:03,642 [main] INFO CoPla - Select BASIC as delivery type and select all dropdowns
+2022-02-01 17:30:20,101 [main] INFO CoPla - Click on apply filter
+2022-02-01 17:30:24,390 [main] INFO CoPla - Click on clear filter
+2022-02-01 17:30:25,364 [main] INFO CoPla - Select month and year from the  dropdown
+2022-02-01 17:30:28,621 [main] INFO CoPla - Click on delivery type dropdown
+2022-02-01 17:31:07,509 [main] INFO CoPla - Early delivery type filter is selected
+2022-02-01 17:31:07,510 [main] INFO CoPla - Click on apply filter
+2022-02-01 17:31:09,039 [main] INFO CoPla - Logged out the application
+2022-02-02 10:17:01,417 [main] INFO CoPla - Password is entered
+2022-02-02 10:17:07,426 [main] INFO CoPla - Logged in the application
+2022-02-02 10:17:07,426 [main] INFO CoPla - Logged in the application
+2022-02-02 10:17:17,886 [main] INFO CoPla - Click on data screen
+2022-02-02 10:17:31,882 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:17:32,441 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:17:33,189 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:17:33,345 [main] INFO CoPla - Click on start date
+2022-02-02 10:17:33,603 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:17:33,927 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:17:34,175 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:17:37,982 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:20:46,307 [main] INFO CoPla - Password is entered
+2022-02-02 10:20:52,509 [main] INFO CoPla - Logged in the application
+2022-02-02 10:20:52,509 [main] INFO CoPla - Logged in the application
+2022-02-02 10:21:02,909 [main] INFO CoPla - Click on data screen
+2022-02-02 10:21:16,930 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:21:17,491 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:21:18,204 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:21:18,358 [main] INFO CoPla - Click on start date
+2022-02-02 10:21:18,611 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:21:18,963 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:21:19,114 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:21:22,822 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:28:23,001 [main] INFO CoPla - Password is entered
+2022-02-02 10:28:29,276 [main] INFO CoPla - Logged in the application
+2022-02-02 10:28:29,277 [main] INFO CoPla - Logged in the application
+2022-02-02 10:28:39,693 [main] INFO CoPla - Click on data screen
+2022-02-02 10:28:53,687 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:28:54,197 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:28:54,895 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:28:55,012 [main] INFO CoPla - Click on start date
+2022-02-02 10:28:55,298 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:28:55,636 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:28:55,911 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:28:59,717 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:29:51,992 [main] INFO CoPla - Password is entered
+2022-02-02 10:29:58,665 [main] INFO CoPla - Logged in the application
+2022-02-02 10:29:58,666 [main] INFO CoPla - Logged in the application
+2022-02-02 10:30:09,091 [main] INFO CoPla - Click on data screen
+2022-02-02 10:30:23,022 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:30:23,580 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:30:24,330 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:30:24,471 [main] INFO CoPla - Click on start date
+2022-02-02 10:30:24,746 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:30:25,028 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:30:25,243 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:30:28,914 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:32:12,363 [main] INFO CoPla - Password is entered
+2022-02-02 10:32:19,203 [main] INFO CoPla - Logged in the application
+2022-02-02 10:32:19,205 [main] INFO CoPla - Logged in the application
+2022-02-02 10:32:29,642 [main] INFO CoPla - Click on data screen
+2022-02-02 10:32:43,627 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:32:44,137 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:32:44,900 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:32:45,043 [main] INFO CoPla - Click on start date
+2022-02-02 10:32:48,293 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:32:48,615 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:32:48,843 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:32:52,576 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:36:28,086 [main] INFO CoPla - Password is entered
+2022-02-02 10:36:35,280 [main] INFO CoPla - Logged in the application
+2022-02-02 10:36:35,280 [main] INFO CoPla - Logged in the application
+2022-02-02 10:36:45,618 [main] INFO CoPla - Click on data screen
+2022-02-02 10:36:59,606 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:37:00,093 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:37:00,778 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:37:00,899 [main] INFO CoPla - Click on start date
+2022-02-02 10:37:04,141 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:37:04,486 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:37:04,734 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:37:08,450 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:37:08,881 [main] INFO CoPla - Logged out the application
+2022-02-02 10:39:17,082 [main] INFO CoPla - Password is entered
+2022-02-02 10:39:23,337 [main] INFO CoPla - Logged in the application
+2022-02-02 10:39:23,337 [main] INFO CoPla - Logged in the application
+2022-02-02 10:39:33,756 [main] INFO CoPla - Click on data screen
+2022-02-02 10:39:47,727 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:39:48,239 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:39:48,914 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:39:49,017 [main] INFO CoPla - Click on start date
+2022-02-02 10:39:52,049 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:39:52,446 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:39:52,466 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:39:56,181 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:39:56,612 [main] INFO CoPla - Logged out the application
+2022-02-02 10:42:43,619 [main] INFO CoPla - Password is entered
+2022-02-02 10:42:50,059 [main] INFO CoPla - Logged in the application
+2022-02-02 10:42:50,059 [main] INFO CoPla - Logged in the application
+2022-02-02 10:43:00,450 [main] INFO CoPla - Click on data screen
+2022-02-02 10:43:14,422 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:43:14,932 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:43:15,633 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:43:15,718 [main] INFO CoPla - Click on start date
+2022-02-02 10:43:21,885 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:43:22,203 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:43:22,233 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:43:25,935 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:43:26,824 [main] INFO CoPla - Logged out the application
+2022-02-02 10:46:12,499 [main] INFO CoPla - Password is entered
+2022-02-02 10:46:18,744 [main] INFO CoPla - Logged in the application
+2022-02-02 10:46:18,744 [main] INFO CoPla - Logged in the application
+2022-02-02 10:46:29,181 [main] INFO CoPla - Click on data screen
+2022-02-02 10:46:43,136 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 10:46:43,717 [main] INFO CoPla - Click on sorting process
+2022-02-02 10:46:44,506 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 10:46:44,634 [main] INFO CoPla - Click on start date
+2022-02-02 10:46:51,220 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:46:51,604 [main] INFO CoPla - Select end date calendar
+2022-02-02 10:46:51,630 [main] INFO CoPla - Select start date as todays date
+2022-02-02 10:46:55,303 [main] INFO CoPla - Click on apply filter
+2022-02-02 10:47:05,358 [main] INFO CoPla - Checking table is empty or not
+2022-02-02 10:47:11,384 [main] INFO CoPla - Logged out the application
+2022-02-02 11:52:05,298 [main] INFO CoPla - Password is entered
+2022-02-02 11:52:11,069 [main] INFO CoPla - Logged in the application
+2022-02-02 11:52:11,070 [main] INFO CoPla - Logged in the application
+2022-02-02 11:52:21,471 [main] INFO CoPla - Click on data screen
+2022-02-02 11:52:35,419 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 11:52:35,917 [main] INFO CoPla - Click on sorting process
+2022-02-02 11:52:36,507 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 11:52:36,577 [main] INFO CoPla - Click on start date
+2022-02-02 11:52:43,096 [main] INFO CoPla - Select start date as todays date
+2022-02-02 11:52:43,422 [main] INFO CoPla - Select end date calendar
+2022-02-02 11:52:43,828 [main] INFO CoPla - Select start date as todays date
+2022-02-02 11:52:47,408 [main] INFO CoPla - Click on apply filter
+2022-02-02 11:52:57,478 [main] INFO CoPla - Checking table is empty or not
+2022-02-02 11:52:58,596 [main] INFO CoPla - Logged out the application
+2022-02-02 12:01:47,309 [main] INFO CoPla - Password is entered
+2022-02-02 12:01:52,678 [main] INFO CoPla - Logged in the application
+2022-02-02 12:01:52,680 [main] INFO CoPla - Logged in the application
+2022-02-02 12:02:02,991 [main] INFO CoPla - Click on data screen
+2022-02-02 12:02:16,920 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 12:02:17,342 [main] INFO CoPla - Click on sorting process
+2022-02-02 12:02:18,517 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 12:02:18,590 [main] INFO CoPla - Click on start date
+2022-02-02 12:02:25,059 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:02:25,374 [main] INFO CoPla - Select end date calendar
+2022-02-02 12:02:25,768 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:02:29,349 [main] INFO CoPla - Click on apply filter
+2022-02-02 12:02:33,567 [main] INFO CoPla - Logged out the application
+2022-02-02 12:20:18,514 [main] INFO CoPla - Password is entered
+2022-02-02 12:20:23,957 [main] INFO CoPla - Logged in the application
+2022-02-02 12:20:23,957 [main] INFO CoPla - Logged in the application
+2022-02-02 12:20:34,276 [main] INFO CoPla - Click on data screen
+2022-02-02 12:20:48,189 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 12:20:48,685 [main] INFO CoPla - Click on sorting process
+2022-02-02 12:20:49,266 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 12:20:49,343 [main] INFO CoPla - Click on start date
+2022-02-02 12:20:55,809 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:20:56,057 [main] INFO CoPla - Select end date calendar
+2022-02-02 12:20:56,470 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:21:00,054 [main] INFO CoPla - Click on apply filter
+2022-02-02 12:21:04,391 [main] INFO CoPla - Logged out the application
+2022-02-02 12:22:47,030 [main] INFO CoPla - Password is entered
+2022-02-02 12:22:52,601 [main] INFO CoPla - Logged in the application
+2022-02-02 12:22:52,603 [main] INFO CoPla - Logged in the application
+2022-02-02 12:23:02,977 [main] INFO CoPla - Click on data screen
+2022-02-02 12:23:16,909 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 12:23:17,415 [main] INFO CoPla - Click on sorting process
+2022-02-02 12:23:18,032 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 12:23:18,112 [main] INFO CoPla - Click on start date
+2022-02-02 12:23:24,642 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:23:24,938 [main] INFO CoPla - Select end date calendar
+2022-02-02 12:23:25,380 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:23:28,974 [main] INFO CoPla - Click on apply filter
+2022-02-02 12:23:38,257 [main] INFO CoPla - Click on clear filter
+2022-02-02 12:23:38,630 [main] INFO CoPla - Click on sorting process
+2022-02-02 12:23:39,778 [main] INFO CoPla - Select MSM from the  dropdown
+2022-02-02 12:23:39,831 [main] INFO CoPla - Click on start date
+2022-02-02 12:23:46,233 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:23:46,501 [main] INFO CoPla - Select end date calendar
+2022-02-02 12:23:46,852 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:23:50,351 [main] INFO CoPla - Click on apply filter
+2022-02-02 12:24:00,415 [main] INFO CoPla - Checking table is empty or not
+2022-02-02 12:24:01,370 [main] INFO CoPla - Logged out the application
+2022-02-02 12:25:07,468 [main] INFO CoPla - Password is entered
+2022-02-02 12:25:13,465 [main] INFO CoPla - Logged in the application
+2022-02-02 12:25:13,465 [main] INFO CoPla - Logged in the application
+2022-02-02 12:25:23,845 [main] INFO CoPla - Click on data screen
+2022-02-02 12:25:37,737 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 12:25:38,166 [main] INFO CoPla - Click on sorting process
+2022-02-02 12:25:39,346 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 12:25:39,431 [main] INFO CoPla - Click on start date
+2022-02-02 12:25:45,897 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:25:46,248 [main] INFO CoPla - Select end date calendar
+2022-02-02 12:25:46,647 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:25:50,231 [main] INFO CoPla - Click on apply filter
+2022-02-02 12:25:59,534 [main] INFO CoPla - Click on clear filter
+2022-02-02 12:25:59,892 [main] INFO CoPla - Click on sorting process
+2022-02-02 12:26:01,008 [main] INFO CoPla - Select MSM from the  dropdown
+2022-02-02 12:26:01,069 [main] INFO CoPla - Click on start date
+2022-02-02 12:26:07,452 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:26:07,658 [main] INFO CoPla - Select end date calendar
+2022-02-02 12:26:08,011 [main] INFO CoPla - Select start date as todays date
+2022-02-02 12:26:11,529 [main] INFO CoPla - Click on apply filter
+2022-02-02 12:26:21,595 [main] INFO CoPla - Checking table is empty or not
+2022-02-02 12:26:22,580 [main] INFO CoPla - Logged out the application
+2022-02-02 13:08:17,927 [main] INFO CoPla - Password is entered
+2022-02-02 13:08:23,972 [main] INFO CoPla - Logged in the application
+2022-02-02 13:08:23,972 [main] INFO CoPla - Logged in the application
+2022-02-02 13:08:34,407 [main] INFO CoPla - Click on data screen
+2022-02-02 13:08:48,385 [main] INFO CoPla - Select unprocessed screen from the dropdown
+2022-02-02 13:08:48,929 [main] INFO CoPla - Click on sorting process
+2022-02-02 13:08:49,624 [main] INFO CoPla - Select CAMS from the  dropdown
+2022-02-02 13:08:49,733 [main] INFO CoPla - Click on start date
+2022-02-02 13:08:56,228 [main] INFO CoPla - Select start date as todays date
+2022-02-02 13:08:56,529 [main] INFO CoPla - Select end date calendar
+2022-02-02 13:08:57,026 [main] INFO CoPla - Select start date as todays date
+2022-02-02 13:09:00,792 [main] INFO CoPla - Click on apply filter
+2022-02-02 13:09:10,506 [main] INFO CoPla - Click on clear filter
+2022-02-02 13:09:10,970 [main] INFO CoPla - Click on sorting process
+2022-02-02 13:09:11,650 [main] INFO CoPla - Select MSM from the  dropdown
+2022-02-02 13:09:11,743 [main] INFO CoPla - Click on start date
+2022-02-02 13:09:18,218 [main] INFO CoPla - Select start date as todays date
+2022-02-02 13:09:18,512 [main] INFO CoPla - Select end date calendar
+2022-02-02 13:09:18,948 [main] INFO CoPla - Select start date as todays date
+2022-02-02 13:09:22,619 [main] INFO CoPla - Click on apply filter
+2022-02-02 13:09:32,635 [main] INFO CoPla - Checking table is empty or not
+2022-02-02 13:09:34,051 [main] INFO CoPla - Logged out the application
+2022-02-02 13:39:38,599 [main] INFO CoPla - Password is entered
+2022-02-02 13:39:45,304 [main] INFO CoPla - Logged in the application
+2022-02-02 13:39:45,304 [main] INFO CoPla - Logged in the application
+2022-02-02 13:39:55,765 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 13:43:01,971 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 13:43:14,204 [main] INFO CoPla - Logged out the application
+2022-02-02 13:45:14,631 [main] INFO CoPla - Password is entered
+2022-02-02 13:45:20,761 [main] INFO CoPla - Logged in the application
+2022-02-02 13:45:20,762 [main] INFO CoPla - Logged in the application
+2022-02-02 13:45:31,169 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 13:45:37,105 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 13:45:38,177 [main] INFO CoPla - Logged out the application
+2022-02-02 13:46:27,488 [main] INFO CoPla - Password is entered
+2022-02-02 13:46:33,774 [main] INFO CoPla - Logged in the application
+2022-02-02 13:46:33,775 [main] INFO CoPla - Logged in the application
+2022-02-02 13:46:44,247 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 13:46:50,187 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 13:46:51,532 [main] INFO CoPla - Logged out the application
+2022-02-02 16:03:53,171 [main] INFO CoPla - Password is entered
+2022-02-02 16:03:59,958 [main] INFO CoPla - Logged in the application
+2022-02-02 16:03:59,958 [main] INFO CoPla - Logged in the application
+2022-02-02 16:04:10,359 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:04:11,292 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:24:45,560 [main] INFO CoPla - Password is entered
+2022-02-02 16:24:51,553 [main] INFO CoPla - Logged in the application
+2022-02-02 16:24:51,553 [main] INFO CoPla - Logged in the application
+2022-02-02 16:25:02,042 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:25:02,961 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:25:08,231 [main] INFO CoPla - Click on status
+2022-02-02 16:25:09,277 [main] INFO CoPla - Logged out the application
+2022-02-02 16:27:11,160 [main] INFO CoPla - Password is entered
+2022-02-02 16:27:17,464 [main] INFO CoPla - Logged in the application
+2022-02-02 16:27:17,465 [main] INFO CoPla - Logged in the application
+2022-02-02 16:27:27,905 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:27:28,768 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:27:33,836 [main] INFO CoPla - Click on status
+2022-02-02 16:27:34,993 [main] INFO CoPla - Logged out the application
+2022-02-02 16:29:18,854 [main] INFO CoPla - Password is entered
+2022-02-02 16:29:25,053 [main] INFO CoPla - Logged in the application
+2022-02-02 16:29:25,053 [main] INFO CoPla - Logged in the application
+2022-02-02 16:29:35,463 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:29:36,371 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:29:41,452 [main] INFO CoPla - Click on status
+2022-02-02 16:29:42,411 [main] INFO CoPla - Logged out the application
+2022-02-02 16:31:10,861 [main] INFO CoPla - Click on clear filter
+2022-02-02 16:31:10,898 [main] INFO CoPla - Click on sorting process
+2022-02-02 16:36:42,449 [main] INFO CoPla - Password is entered
+2022-02-02 16:36:48,687 [main] INFO CoPla - Logged in the application
+2022-02-02 16:36:48,687 [main] INFO CoPla - Logged in the application
+2022-02-02 16:36:59,110 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:37:00,025 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:37:10,159 [main] INFO CoPla - Click on status
+2022-02-02 16:37:11,348 [main] INFO CoPla - Logged out the application
+2022-02-02 16:39:59,182 [main] INFO CoPla - Password is entered
+2022-02-02 16:40:06,260 [main] INFO CoPla - Logged in the application
+2022-02-02 16:40:06,260 [main] INFO CoPla - Logged in the application
+2022-02-02 16:40:16,592 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:40:17,459 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:40:22,512 [main] INFO CoPla - Click on status
+2022-02-02 16:40:23,574 [main] INFO CoPla - Logged out the application
+2022-02-02 16:44:08,685 [main] INFO CoPla - Password is entered
+2022-02-02 16:44:14,756 [main] INFO CoPla - Logged in the application
+2022-02-02 16:44:14,757 [main] INFO CoPla - Logged in the application
+2022-02-02 16:44:25,176 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:44:26,100 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:44:32,307 [main] INFO CoPla - Click on status
+2022-02-02 16:44:33,367 [main] INFO CoPla - Logged out the application
+2022-02-02 16:46:04,448 [main] INFO CoPla - Password is entered
+2022-02-02 16:46:11,110 [main] INFO CoPla - Logged in the application
+2022-02-02 16:46:11,111 [main] INFO CoPla - Logged in the application
+2022-02-02 16:46:21,513 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:46:22,450 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:46:27,532 [main] INFO CoPla - Click on status
+2022-02-02 16:46:28,664 [main] INFO CoPla - Logged out the application
+2022-02-02 16:47:35,148 [main] INFO CoPla - Password is entered
+2022-02-02 16:47:41,621 [main] INFO CoPla - Logged in the application
+2022-02-02 16:47:41,621 [main] INFO CoPla - Logged in the application
+2022-02-02 16:47:52,133 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:47:53,057 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:48:01,140 [main] INFO CoPla - Click on status
+2022-02-02 16:48:02,186 [main] INFO CoPla - Logged out the application
+2022-02-02 16:54:09,675 [main] INFO CoPla - Password is entered
+2022-02-02 16:54:19,834 [main] INFO CoPla - Logged in the application
+2022-02-02 16:54:19,835 [main] INFO CoPla - Logged in the application
+2022-02-02 16:54:30,218 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 16:54:31,146 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 16:54:39,240 [main] INFO CoPla - Click on status
+2022-02-02 16:54:40,663 [main] INFO CoPla - Logged out the application
+2022-02-02 17:09:10,718 [main] INFO CoPla - Password is entered
+2022-02-02 17:09:17,188 [main] INFO CoPla - Logged in the application
+2022-02-02 17:09:17,190 [main] INFO CoPla - Logged in the application
+2022-02-02 17:09:27,732 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 17:09:28,655 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 17:09:36,749 [main] INFO CoPla - Click on status
+2022-02-02 17:09:38,075 [main] INFO CoPla - Logged out the application
+2022-02-02 17:15:05,743 [main] INFO CoPla - Password is entered
+2022-02-02 17:15:12,493 [main] INFO CoPla - Logged in the application
+2022-02-02 17:15:12,493 [main] INFO CoPla - Logged in the application
+2022-02-02 17:15:22,945 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 17:15:23,866 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 17:15:31,955 [main] INFO CoPla - Click on status
+2022-02-02 17:15:32,998 [main] INFO CoPla - Logged out the application
+2022-02-02 17:21:28,490 [main] INFO CoPla - Password is entered
+2022-02-02 17:21:35,292 [main] INFO CoPla - Logged in the application
+2022-02-02 17:21:35,293 [main] INFO CoPla - Logged in the application
+2022-02-02 17:21:45,698 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 17:21:46,627 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 17:21:54,734 [main] INFO CoPla - Click on status
+2022-02-02 17:21:55,767 [main] INFO CoPla - Logged out the application
+2022-02-02 17:37:12,500 [main] INFO CoPla - Password is entered
+2022-02-02 17:37:19,172 [main] INFO CoPla - Logged in the application
+2022-02-02 17:37:19,173 [main] INFO CoPla - Logged in the application
+2022-02-02 17:37:29,590 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 17:37:30,525 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 17:37:38,620 [main] INFO CoPla - Click on status
+2022-02-02 17:37:38,742 [main] INFO CoPla - Showing product code in console
+2022-02-02 17:37:39,968 [main] INFO CoPla - Logged out the application
+2022-02-02 17:39:49,181 [main] INFO CoPla - Password is entered
+2022-02-02 17:39:56,007 [main] INFO CoPla - Logged in the application
+2022-02-02 17:39:56,008 [main] INFO CoPla - Logged in the application
+2022-02-02 17:40:06,476 [main] INFO CoPla - Click on admin dropdown
+2022-02-02 17:40:07,420 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-02 17:40:15,497 [main] INFO CoPla - Click on status
+2022-02-02 17:40:15,590 [main] INFO CoPla - Showing product code in console
+2022-02-02 17:40:16,631 [main] INFO CoPla - Logged out the application
+2022-02-02 20:41:10,930 [main] INFO CoPla - Select MSM from the  dropdown
+2022-02-02 20:41:10,962 [main] INFO CoPla - Click on start date
+2022-02-02 20:41:13,974 [main] INFO CoPla - Select start date as todays date
+2022-02-03 09:29:25,523 [main] INFO CoPla - Select end date calendar
+2022-02-03 09:29:25,528 [main] INFO CoPla - Select start date as todays date
+2022-02-03 10:00:34,540 [main] INFO CoPla - Password is entered
+2022-02-03 10:00:41,147 [main] INFO CoPla - Logged in the application
+2022-02-03 10:00:41,148 [main] INFO CoPla - Logged in the application
+2022-02-03 10:00:51,558 [main] INFO CoPla - Click on admin dropdown
+2022-02-03 10:00:52,438 [main] INFO CoPla - Click on small parcel from the dropdown
+2022-02-03 10:01:00,573 [main] INFO CoPla - Click on status
+2022-02-03 10:01:00,673 [main] INFO CoPla - Showing product code in console
+2022-02-03 10:01:01,665 [main] INFO CoPla - Logged out the application
+2022-02-03 11:00:42,513 [main] INFO CoPla - Password is entered
+2022-02-03 11:00:48,201 [main] INFO CoPla - Logged in the application
+2022-02-03 11:00:48,201 [main] INFO CoPla - Logged in the application
+2022-02-03 11:00:58,526 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 11:01:14,393 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 11:01:29,777 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 11:01:30,784 [main] INFO CoPla - Logged out the application
+2022-02-03 11:02:18,962 [main] INFO CoPla - Password is entered
+2022-02-03 11:02:25,361 [main] INFO CoPla - Logged in the application
+2022-02-03 11:02:25,362 [main] INFO CoPla - Logged in the application
+2022-02-03 11:02:35,675 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 11:02:51,679 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 11:03:07,143 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 11:03:08,199 [main] INFO CoPla - Logged out the application
+2022-02-03 11:58:43,216 [main] INFO CoPla - Password is entered
+2022-02-03 11:58:48,929 [main] INFO CoPla - Logged in the application
+2022-02-03 11:58:48,930 [main] INFO CoPla - Logged in the application
+2022-02-03 11:58:59,246 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 11:59:15,164 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 11:59:25,623 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 11:59:26,122 [main] INFO CoPla - Enter delivery model name
+2022-02-03 11:59:31,041 [main] INFO CoPla - Select model type
+2022-02-03 11:59:32,088 [main] INFO CoPla - Logged out the application
+2022-02-03 12:26:19,282 [main] INFO CoPla - Password is entered
+2022-02-03 12:26:26,076 [main] INFO CoPla - Logged in the application
+2022-02-03 12:26:26,077 [main] INFO CoPla - Logged in the application
+2022-02-03 12:26:36,456 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 12:26:52,380 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 12:27:02,837 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 12:27:03,659 [main] INFO CoPla - Enter delivery model name
+2022-02-03 12:27:08,769 [main] INFO CoPla - Select model type
+2022-02-03 12:27:09,918 [main] INFO CoPla - Select cycle count
+2022-02-03 13:07:12,375 [main] INFO CoPla - Password is entered
+2022-02-03 13:07:18,759 [main] INFO CoPla - Logged in the application
+2022-02-03 13:07:18,761 [main] INFO CoPla - Logged in the application
+2022-02-03 13:07:29,149 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 13:07:45,169 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 13:07:55,612 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 13:07:56,121 [main] INFO CoPla - Enter delivery model name
+2022-02-03 13:08:01,160 [main] INFO CoPla - Select model type
+2022-02-03 13:08:02,515 [main] INFO CoPla - Select cycle count
+2022-02-03 13:08:03,062 [main] INFO CoPla - Add description
+2022-02-03 13:08:04,173 [main] INFO CoPla - Logged out the application
+2022-02-03 13:20:11,701 [main] INFO CoPla - Password is entered
+2022-02-03 13:20:19,399 [main] INFO CoPla - Logged in the application
+2022-02-03 13:20:19,399 [main] INFO CoPla - Logged in the application
+2022-02-03 13:20:29,855 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 13:20:45,792 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 13:20:56,308 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 13:20:56,854 [main] INFO CoPla - Enter delivery model name
+2022-02-03 13:20:57,951 [main] INFO CoPla - Select model type
+2022-02-03 13:21:03,323 [main] INFO CoPla - Select cycle count
+2022-02-03 13:21:03,910 [main] INFO CoPla - Add description
+2022-02-03 13:21:05,009 [main] INFO CoPla - Logged out the application
+2022-02-03 13:21:52,770 [main] INFO CoPla - Password is entered
+2022-02-03 13:21:59,345 [main] INFO CoPla - Logged in the application
+2022-02-03 13:21:59,346 [main] INFO CoPla - Logged in the application
+2022-02-03 13:22:09,774 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 13:22:25,782 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 13:22:36,271 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 13:22:36,855 [main] INFO CoPla - Enter delivery model name
+2022-02-03 13:22:37,832 [main] INFO CoPla - Select model type
+2022-02-03 13:22:43,253 [main] INFO CoPla - Select cycle count
+2022-02-03 13:22:43,930 [main] INFO CoPla - Add description
+2022-02-03 13:22:44,922 [main] INFO CoPla - Logged out the application
+2022-02-03 14:47:08,583 [main] INFO CoPla - Password is entered
+2022-02-03 14:47:13,968 [main] INFO CoPla - Logged in the application
+2022-02-03 14:47:13,969 [main] INFO CoPla - Logged in the application
+2022-02-03 14:47:24,367 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 14:47:40,365 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 14:47:50,822 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 14:47:51,290 [main] INFO CoPla - Enter delivery model name
+2022-02-03 14:47:52,259 [main] INFO CoPla - Select model type
+2022-02-03 14:47:57,501 [main] INFO CoPla - Select cycle count
+2022-02-03 14:47:58,051 [main] INFO CoPla - Add description
+2022-02-03 14:52:39,697 [main] INFO CoPla - Password is entered
+2022-02-03 14:52:46,313 [main] INFO CoPla - Logged in the application
+2022-02-03 14:52:46,314 [main] INFO CoPla - Logged in the application
+2022-02-03 14:52:56,636 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 14:53:12,488 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 14:53:22,802 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 14:53:23,284 [main] INFO CoPla - Enter delivery model name
+2022-02-03 14:53:24,287 [main] INFO CoPla - Select model type
+2022-02-03 14:53:29,617 [main] INFO CoPla - Select cycle count
+2022-02-03 14:53:30,151 [main] INFO CoPla - Add description
+2022-02-03 14:54:00,752 [main] INFO CoPla - Logged out the application
+2022-02-03 14:56:28,069 [main] INFO CoPla - Password is entered
+2022-02-03 14:56:33,510 [main] INFO CoPla - Logged in the application
+2022-02-03 14:56:33,510 [main] INFO CoPla - Logged in the application
+2022-02-03 14:56:43,824 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 14:56:59,682 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 14:57:09,999 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 14:57:10,470 [main] INFO CoPla - Enter delivery model name
+2022-02-03 14:57:11,433 [main] INFO CoPla - Select model type
+2022-02-03 14:57:16,690 [main] INFO CoPla - Select cycle count
+2022-02-03 14:57:17,200 [main] INFO CoPla - Add description
+2022-02-03 14:57:47,941 [main] INFO CoPla - Logged out the application
+2022-02-03 15:00:19,879 [main] INFO CoPla - Password is entered
+2022-02-03 15:00:25,746 [main] INFO CoPla - Logged in the application
+2022-02-03 15:00:25,746 [main] INFO CoPla - Logged in the application
+2022-02-03 15:00:36,095 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 15:00:52,038 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 15:01:02,495 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 15:01:02,963 [main] INFO CoPla - Enter delivery model name
+2022-02-03 15:01:03,953 [main] INFO CoPla - Select model type
+2022-02-03 15:01:09,155 [main] INFO CoPla - Select cycle count
+2022-02-03 15:01:09,680 [main] INFO CoPla - Add description
+2022-02-03 15:01:34,299 [main] INFO CoPla - Logged out the application
+2022-02-03 15:03:11,336 [main] INFO CoPla - Password is entered
+2022-02-03 15:03:16,868 [main] INFO CoPla - Logged in the application
+2022-02-03 15:03:16,868 [main] INFO CoPla - Logged in the application
+2022-02-03 15:03:27,157 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 15:03:43,083 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 15:03:53,553 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 15:03:54,012 [main] INFO CoPla - Enter delivery model name
+2022-02-03 15:03:54,983 [main] INFO CoPla - Select model type
+2022-02-03 15:04:00,263 [main] INFO CoPla - Select cycle count
+2022-02-03 15:04:00,821 [main] INFO CoPla - Add description
+2022-02-03 15:04:25,859 [main] INFO CoPla - Logged out the application
+2022-02-03 15:38:10,377 [main] INFO CoPla - Password is entered
+2022-02-03 15:38:16,834 [main] INFO CoPla - Logged in the application
+2022-02-03 15:38:16,834 [main] INFO CoPla - Logged in the application
+2022-02-03 15:38:27,291 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 15:38:43,191 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 15:38:53,642 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 15:38:54,168 [main] INFO CoPla - Enter delivery model name
+2022-02-03 15:38:55,311 [main] INFO CoPla - Select model type
+2022-02-03 15:39:00,850 [main] INFO CoPla - Select cycle count
+2022-02-03 15:39:01,435 [main] INFO CoPla - Add description
+2022-02-03 15:39:35,308 [main] INFO CoPla - Logged out the application
+2022-02-03 15:43:03,921 [main] INFO CoPla - Password is entered
+2022-02-03 15:43:09,826 [main] INFO CoPla - Logged in the application
+2022-02-03 15:43:09,826 [main] INFO CoPla - Logged in the application
+2022-02-03 15:43:20,191 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 15:43:36,224 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 15:43:46,751 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 15:43:47,282 [main] INFO CoPla - Enter delivery model name
+2022-02-03 15:43:48,396 [main] INFO CoPla - Select model type
+2022-02-03 15:43:53,800 [main] INFO CoPla - Select cycle count
+2022-02-03 15:43:54,446 [main] INFO CoPla - Add description
+2022-02-03 15:44:17,130 [main] INFO CoPla - Logged out the application
+2022-02-03 15:48:04,702 [main] INFO CoPla - Password is entered
+2022-02-03 15:48:10,867 [main] INFO CoPla - Logged in the application
+2022-02-03 15:48:10,867 [main] INFO CoPla - Logged in the application
+2022-02-03 15:48:21,288 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 15:48:37,284 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 15:48:47,787 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 15:48:48,304 [main] INFO CoPla - Enter delivery model name
+2022-02-03 15:48:49,349 [main] INFO CoPla - Select model type
+2022-02-03 15:48:54,804 [main] INFO CoPla - Select cycle count
+2022-02-03 15:48:55,432 [main] INFO CoPla - Add description
+2022-02-03 15:49:34,578 [main] INFO CoPla - Logged out the application
+2022-02-03 15:53:43,266 [main] INFO CoPla - Password is entered
+2022-02-03 15:53:49,916 [main] INFO CoPla - Logged in the application
+2022-02-03 15:53:49,917 [main] INFO CoPla - Logged in the application
+2022-02-03 15:54:00,370 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 15:54:16,345 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 15:54:26,871 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 15:54:27,468 [main] INFO CoPla - Enter delivery model name
+2022-02-03 15:54:28,599 [main] INFO CoPla - Select model type
+2022-02-03 15:54:33,898 [main] INFO CoPla - Select cycle count
+2022-02-03 15:54:34,495 [main] INFO CoPla - Add description
+2022-02-03 15:55:05,126 [main] INFO CoPla - Logged out the application
+2022-02-03 16:10:32,923 [main] INFO CoPla - Password is entered
+2022-02-03 16:10:38,897 [main] INFO CoPla - Logged in the application
+2022-02-03 16:10:38,898 [main] INFO CoPla - Logged in the application
+2022-02-03 16:10:49,469 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:11:05,488 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:11:15,994 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:11:16,546 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:11:17,611 [main] INFO CoPla - Select model type
+2022-02-03 16:11:23,078 [main] INFO CoPla - Select cycle count
+2022-02-03 16:11:23,688 [main] INFO CoPla - Add description
+2022-02-03 16:11:47,476 [main] INFO CoPla - Logged out the application
+2022-02-03 16:13:50,846 [main] INFO CoPla - Password is entered
+2022-02-03 16:13:57,477 [main] INFO CoPla - Logged in the application
+2022-02-03 16:13:57,479 [main] INFO CoPla - Logged in the application
+2022-02-03 16:14:07,930 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:14:23,913 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:14:34,328 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:14:34,838 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:14:35,848 [main] INFO CoPla - Select model type
+2022-02-03 16:14:41,267 [main] INFO CoPla - Select cycle count
+2022-02-03 16:14:41,821 [main] INFO CoPla - Add description
+2022-02-03 16:15:05,918 [main] INFO CoPla - Logged out the application
+2022-02-03 16:16:45,227 [main] INFO CoPla - Password is entered
+2022-02-03 16:16:51,640 [main] INFO CoPla - Logged in the application
+2022-02-03 16:16:51,641 [main] INFO CoPla - Logged in the application
+2022-02-03 16:17:02,093 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:17:18,036 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:17:28,535 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:17:29,274 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:17:30,327 [main] INFO CoPla - Select model type
+2022-02-03 16:17:35,896 [main] INFO CoPla - Select cycle count
+2022-02-03 16:17:36,484 [main] INFO CoPla - Add description
+2022-02-03 16:18:41,284 [main] INFO CoPla - Password is entered
+2022-02-03 16:18:47,634 [main] INFO CoPla - Logged in the application
+2022-02-03 16:18:47,635 [main] INFO CoPla - Logged in the application
+2022-02-03 16:18:58,002 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:19:13,969 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:19:24,465 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:19:24,995 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:19:26,038 [main] INFO CoPla - Select model type
+2022-02-03 16:19:31,500 [main] INFO CoPla - Select cycle count
+2022-02-03 16:19:32,034 [main] INFO CoPla - Add description
+2022-02-03 16:21:04,948 [main] INFO CoPla - Password is entered
+2022-02-03 16:21:10,681 [main] INFO CoPla - Logged in the application
+2022-02-03 16:21:10,682 [main] INFO CoPla - Logged in the application
+2022-02-03 16:21:21,130 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:21:37,128 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:21:47,649 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:21:48,182 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:21:49,217 [main] INFO CoPla - Select model type
+2022-02-03 16:21:54,628 [main] INFO CoPla - Select cycle count
+2022-02-03 16:21:55,203 [main] INFO CoPla - Add description
+2022-02-03 16:22:52,474 [main] INFO CoPla - Password is entered
+2022-02-03 16:22:59,001 [main] INFO CoPla - Logged in the application
+2022-02-03 16:22:59,002 [main] INFO CoPla - Logged in the application
+2022-02-03 16:23:09,451 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:23:25,476 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:23:35,986 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:23:36,557 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:23:37,597 [main] INFO CoPla - Select model type
+2022-02-03 16:23:42,934 [main] INFO CoPla - Select cycle count
+2022-02-03 16:23:43,453 [main] INFO CoPla - Add description
+2022-02-03 16:25:53,191 [main] INFO CoPla - Password is entered
+2022-02-03 16:25:59,768 [main] INFO CoPla - Logged in the application
+2022-02-03 16:25:59,769 [main] INFO CoPla - Logged in the application
+2022-02-03 16:26:10,265 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:26:26,277 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:26:36,759 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:26:37,294 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:26:38,380 [main] INFO CoPla - Select model type
+2022-02-03 16:26:43,865 [main] INFO CoPla - Select cycle count
+2022-02-03 16:26:44,484 [main] INFO CoPla - Add description
+2022-02-03 16:27:13,119 [main] INFO CoPla - Logged out the application
+2022-02-03 16:30:19,862 [main] INFO CoPla - Password is entered
+2022-02-03 16:30:26,394 [main] INFO CoPla - Logged in the application
+2022-02-03 16:30:26,394 [main] INFO CoPla - Logged in the application
+2022-02-03 16:30:36,839 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:30:52,831 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:31:03,267 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:31:03,809 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:31:04,927 [main] INFO CoPla - Select model type
+2022-02-03 16:31:10,331 [main] INFO CoPla - Select cycle count
+2022-02-03 16:31:10,959 [main] INFO CoPla - Add description
+2022-02-03 16:31:33,877 [main] INFO CoPla - Logged out the application
+2022-02-03 16:36:14,866 [main] INFO CoPla - Password is entered
+2022-02-03 16:36:21,647 [main] INFO CoPla - Logged in the application
+2022-02-03 16:36:21,648 [main] INFO CoPla - Logged in the application
+2022-02-03 16:36:32,054 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:36:48,004 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:36:58,425 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:36:59,003 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:37:00,090 [main] INFO CoPla - Select model type
+2022-02-03 16:37:05,471 [main] INFO CoPla - Select cycle count
+2022-02-03 16:37:06,043 [main] INFO CoPla - Add description
+2022-02-03 16:37:09,241 [main] INFO CoPla - Select startdate from the calendar
+2022-02-03 16:37:27,734 [main] INFO CoPla - Select enddate from the calendar
+2022-02-03 16:37:32,912 [main] INFO CoPla - Save the model
+2022-02-03 16:37:33,117 [main] INFO CoPla - Logged out the application
+2022-02-03 16:43:13,305 [main] INFO CoPla - Password is entered
+2022-02-03 16:43:19,587 [main] INFO CoPla - Logged in the application
+2022-02-03 16:43:19,589 [main] INFO CoPla - Logged in the application
+2022-02-03 16:43:30,200 [main] INFO CoPla - Click on delivery model dropdown
+2022-02-03 16:43:46,208 [main] INFO CoPla - Select delivery model configuration screen from the dropdown
+2022-02-03 16:43:56,625 [main] INFO CoPla - Popup for adding delivery model
+2022-02-03 16:43:57,203 [main] INFO CoPla - Enter delivery model name
+2022-02-03 16:43:58,249 [main] INFO CoPla - Select model type
+2022-02-03 16:44:03,521 [main] INFO CoPla - Select cycle count
+2022-02-03 16:44:04,091 [main] INFO CoPla - Add description
+2022-02-03 16:44:07,342 [main] INFO CoPla - Select startdate from the calendar
+2022-02-03 16:44:15,904 [main] INFO CoPla - Select enddate from the calendar
+2022-02-03 16:44:22,334 [main] INFO CoPla - Save the model
+2022-02-03 16:44:23,664 [main] INFO CoPla - Logged out the application

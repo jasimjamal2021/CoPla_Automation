@@ -8,6 +8,7 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -71,7 +72,7 @@ public class BaseClass {
 	}
 
 	public String randomstring(String randomstring) {
-		 randomstring = RandomStringUtils.randomAlphabetic(10);
+		randomstring = RandomStringUtils.randomAlphabetic(10);
 		return randomstring;
 	}
 
@@ -96,6 +97,38 @@ public class BaseClass {
 		lp.clickbuttonid();
 
 		logger.info("Logged in the application");
+	}
+
+	public void savepreference() throws InterruptedException {
+
+		Lada ld = new Lada(driver);
+
+		ld.preferencecheckbox();
+		logger.info("Select preference checkbox");
+
+		ld.preferencename();
+		logger.info("Enter the preference name");
+
+		ld.savepreference();
+		Thread.sleep(3000);
+		logger.info("save the preference with random name");
+	}
+
+	public void logout() {
+		Prio prio = new Prio(driver);
+		prio.logout();
+		logger.info("Logged out the application");
+	}
+
+	public void scrollup() {
+		JavascriptExecutor jse = (JavascriptExecutor) driver;
+		jse.executeScript("window.scrollBy(0,-250)");
+	}
+
+	public void scrolldown() {
+		JavascriptExecutor jse = (JavascriptExecutor) driver;
+		jse.executeScript("window.scrollBy(0,250)");
+
 	}
 
 }
